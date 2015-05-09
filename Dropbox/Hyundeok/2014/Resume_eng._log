@@ -1,0 +1,35 @@
+Input File::Resume_eng.tex::0::0::Input File
+Input File::resume.cls::0::0::Input File
+Input Package::resume.cls::0::0::resume 2000/05/19 v1.4b Resume class
+Input File::article.cls::0::0::Input File
+Input Package::article.cls::0::0::article 2014/09/29 v1.4h Standard LaTeX document class
+Input File::size10.clo::0::0::Input File
+Input File::kotex.sty::0::0::Input File
+Input Package::kotex.sty::0::0::kotex 2014/07/27 v1.2 Korean TeX (ko.TeX)
+Input File::kotex.cfg::0::0::Input File
+Input File::kotexutf.sty::0::0::Input File
+Input Package::kotexutf.sty::0::0::kotexutf 2013/10/20 v1.5 typesetting UTF-8 Korean documents
+Input File::inputenc.sty::0::0::Input File
+Input Package::inputenc.sty::0::0::inputenc 2014/04/30 v1.2b Input encoding file
+Input File::utf8.def::0::0::Input File
+Input File::kotexutf-core.tex::0::0::Input File
+Input File::kolabels-utf.sty::0::0::Input File
+Input Package::kolabels-utf.sty::0::0::kolabels-utf 2013/02/23 v1.0 UTF-8 Hangul item labels
+Input File::Resume_eng.aux::0::0::Input File
+LaTeX Font Info::Resume_eng.tex::7::0::   Checking defaults for OML/cmm/m/it.
+LaTeX Font Info::Resume_eng.tex::7::0::   ... okay.
+LaTeX Font Info::Resume_eng.tex::7::0::   Checking defaults for T1/cmr/m/n.
+LaTeX Font Info::Resume_eng.tex::7::0::   ... okay.
+LaTeX Font Info::Resume_eng.tex::7::0::   Checking defaults for OT1/cmr/m/n.
+LaTeX Font Info::Resume_eng.tex::7::0::   ... okay.
+LaTeX Font Info::Resume_eng.tex::7::0::   Checking defaults for OMS/cmsy/m/n.
+LaTeX Font Info::Resume_eng.tex::7::0::   ... okay.
+LaTeX Font Info::Resume_eng.tex::7::0::   Checking defaults for OMX/cmex/m/n.
+LaTeX Font Info::Resume_eng.tex::7::0::   ... okay.
+LaTeX Font Info::Resume_eng.tex::7::0::   Checking defaults for U/cmr/m/n.
+LaTeX Font Info::Resume_eng.tex::7::0::   ... okay.
+LaTeX Font Info::Resume_eng.tex::7::0::   Checking defaults for LUC/nanummj/m/n.
+LaTeX Font Info::Resume_eng.tex::0::0::   Try loading font information for LUC+nanummj on input line.
+Input File::lucnanummj.fd::0::0::Input File
+LaTeX Font Info::Resume_eng.tex::7::0::   ... okay.
+hbox Warning::Resume_eng.tex::41::0::Underfull \hbox (badness 10000) in paragraph at lines 41--44

@@ -1,0 +1,118 @@
+Input File::CoverLetter.tex::0::0::Input File
+Input File::newlfm.cls::0::0::Input File
+Input Package::newlfm.cls::0::0::newlfm 2009/04/10 v9.4 Letter-Fax-Memo LaTeX Document Class
+Input File::keyval.sty::0::0::Input File
+Input Package::keyval.sty::0::0::keyval 2014/10/28 v1.15 key=value parser (DPC)
+Input File::ifthen.sty::0::0::Input File
+Input Package::ifthen.sty::0::0::ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+Input File::ifpdf.sty::0::0::Input File
+Input Package::ifpdf.sty::0::0::ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package Info::ifpdf.sty::0::0::pdfTeX in PDF mode is detected. (ifpdf)
+Input File::setdim.sty::0::0::Input File
+Input Package::setdim.sty::0::0::setdim 2009/04/10 v9.4 Address macros
+Input File::fancyhdr.sty::0::0::Input File
+Input File::eso-pic.sty::0::0::Input File
+Input Package::eso-pic.sty::0::0::eso-pic 2013/10/06 v2.0d eso-pic (RN)
+Input File::atbegshi.sty::0::0::Input File
+Input Package::atbegshi.sty::0::0::atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Input File::infwarerr.sty::0::0::Input File
+Input Package::infwarerr.sty::0::0::infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+Input File::ltxcmds.sty::0::0::Input File
+Input Package::ltxcmds.sty::0::0::ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+Input File::xcolor.sty::0::0::Input File
+Input Package::xcolor.sty::0::0::xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+Input File::color.cfg::0::0::Input File
+Package Info::xcolor.sty::225::0::Driver file: pdftex.def. (xcolor)
+Input File::pdftex.def::0::0::Input File
+Package Info::xcolor.sty::1337::0::Model `cmy' substituted by `cmy0'. (xcolor)
+Package Info::xcolor.sty::1341::0::Model `hsb' substituted by `rgb'. (xcolor)
+Package Info::xcolor.sty::1353::0::Model `RGB' extended. (xcolor)
+Package Info::xcolor.sty::1355::0::Model `HTML' substituted by `rgb'. (xcolor)
+Package Info::xcolor.sty::1356::0::Model `Hsb' substituted by `hsb'. (xcolor)
+Package Info::xcolor.sty::1357::0::Model `tHsb' substituted by `hsb'. (xcolor)
+Package Info::xcolor.sty::1358::0::Model `HSB' substituted by `hsb'. (xcolor)
+Package Info::xcolor.sty::1359::0::Model `Gray' substituted by `gray'. (xcolor)
+Package Info::xcolor.sty::1360::0::Model `wave' substituted by `hsb'. (xcolor)
+Input File::setspace.sty::0::0::Input File
+Input Package::setspace.sty::0::0::setspace 2011/12/19 v6.7a set line spacing
+Input File::lastpage.sty::0::0::Input File
+Input Package::lastpage.sty::0::0::lastpage 2013/01/28 v1.2l Refers to last page's name (HMM; JPG)
+Input File::calc.sty::0::0::Input File
+Input Package::calc.sty::0::0::calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+LaTeX Info::calc.sty::75::0::Redefining \setlength.
+LaTeX Info::calc.sty::76::0::Redefining \addtolength.
+Input File::graphicx.sty::0::0::Input File
+Input Package::graphicx.sty::0::0::graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+Input File::graphics.sty::0::0::Input File
+Input Package::graphics.sty::0::0::graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+Input File::trig.sty::0::0::Input File
+Input Package::trig.sty::0::0::trig 1999/03/16 v1.09 sin cos tan (DPC)
+Input File::graphics.cfg::0::0::Input File
+Package Info::graphics.sty::91::0::Driver file: pdftex.def. (graphics)
+Input File::rotating.sty::0::0::Input File
+Input Package::rotating.sty::0::0::rotating 2009/03/28 v2.16a rotated objects in LaTeX
+Input File::letter.cls::0::0::Input File
+Input Package::letter.cls::0::0::letter 2014/09/29 v1.2z Standard LaTeX document class
+Input File::size11.clo::0::0::Input File
+Input File::addrset.sty::0::0::Input File
+Input Package::addrset.sty::0::0::addrset 2009/04/10 v9.4 Address macros
+Input File::afterpage.sty::0::0::Input File
+Input Package::afterpage.sty::0::0::afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+Input File::envlab.sty::0::0::Input File
+Input Package::envlab.sty::0::0::envlab 1997/07/16 v1.2 Envelopes and Labels
+Package Info::envlab.sty::58::0::Envelopes & Labels package: found makelabels... Seems everything is OK. Good luck.. (envlab)
+Input File::envlab.cfg::0::0::Input File
+LaTeX Info::newlfm.cls::1884::0::Redefining \@texttop.
+Input File::newcent.sty::0::0::Input File
+Input Package::newcent.sty::0::0::newcent 2005/04/12 PSNFSS-v9.2a (SPQR) 
+Input File::url.sty::0::0::Input File
+Input Package::url.sty::0::0::url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+Input File::CoverLetter.aux::0::0::Input File
+LaTeX Font Info::CoverLetter.tex::31::0::   Checking defaults for OML/cmm/m/it.
+LaTeX Font Info::CoverLetter.tex::31::0::   ... okay.
+LaTeX Font Info::CoverLetter.tex::31::0::   Checking defaults for T1/cmr/m/n.
+LaTeX Font Info::CoverLetter.tex::31::0::   ... okay.
+LaTeX Font Info::CoverLetter.tex::31::0::   Checking defaults for OT1/cmr/m/n.
+LaTeX Font Info::CoverLetter.tex::31::0::   ... okay.
+LaTeX Font Info::CoverLetter.tex::31::0::   Checking defaults for OMS/cmsy/m/n.
+LaTeX Font Info::CoverLetter.tex::31::0::   ... okay.
+LaTeX Font Info::CoverLetter.tex::31::0::   Checking defaults for OMX/cmex/m/n.
+LaTeX Font Info::CoverLetter.tex::31::0::   ... okay.
+LaTeX Font Info::CoverLetter.tex::31::0::   Checking defaults for U/cmr/m/n.
+LaTeX Font Info::CoverLetter.tex::31::0::   ... okay.
+LaTeX Font Info::CoverLetter.tex::31::0::   Try loading font information for OT1+pnc.
+Input File::ot1pnc.fd::0::0::Input File
+Input File::supp-pdf.mkii::0::0::Input File
+Package Info::CoverLetter.tex::31::0::Please have a look at the pageslts package at http://www.ctan.org/tex-archive/  macros/latex/contrib/pageslts/  or http://www.ctan.org/tex-archive/  install/macros/latex/contrib/pageslts.tds.zip !. (lastpage)
+Input File::pdftexcmds.sty::0::0::Input File
+Input Package::pdftexcmds.sty::0::0::pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+Input File::ifluatex.sty::0::0::Input File
+Input Package::ifluatex.sty::0::0::ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package Info::ifluatex.sty::0::0::LuaTeX not detected. (ifluatex)
+Package Info::pdftexcmds.sty::0::0::LuaTeX not detected. (pdftexcmds)
+Package Info::pdftexcmds.sty::0::0::\pdf@primitive is available. (pdftexcmds)
+Package Info::pdftexcmds.sty::0::0::\pdf@ifprimitive is available. (pdftexcmds)
+Package Info::pdftexcmds.sty::0::0::\pdfdraftmode found. (pdftexcmds)
+Input File::epstopdf-base.sty::0::0::Input File
+Input Package::epstopdf-base.sty::0::0::epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+Input File::grfext.sty::0::0::Input File
+Input Package::grfext.sty::0::0::grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+Input File::kvdefinekeys.sty::0::0::Input File
+Input Package::kvdefinekeys.sty::0::0::kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Input File::kvoptions.sty::0::0::Input File
+Input Package::kvoptions.sty::0::0::kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+Input File::kvsetkeys.sty::0::0::Input File
+Input Package::kvsetkeys.sty::0::0::kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Input File::etexcmds.sty::0::0::Input File
+Input Package::etexcmds.sty::0::0::etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package Info::etexcmds.sty::0::0::Could not find \expanded. That can mean that you are not using pdfTeX 1.50 or that some package has redefined \expanded. In the latter case, load this package earlier. (etexcmds)
+Package Info::epstopdf-base.sty::0::0::Graphics extension search list: [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE (grfext)
+Input File::epstopdf-sys.cfg::0::0::Input File
+LaTeX Font Info::CoverLetter.tex::32::0::   External font `cmex10' loaded for size <10.95>.
+LaTeX Font Info::CoverLetter.tex::32::0::   External font `cmex10' loaded for size <8>.
+LaTeX Font Info::CoverLetter.tex::32::0::   External font `cmex10' loaded for size <6>.
+hbox Warning::CoverLetter.tex::32::0::Underfull \hbox (badness 10000) detected at line 32
+LaTeX Font Info::CoverLetter.tex::51::0::   Try loading font information for OMS+pnc.
+Input File::omspnc.fd::0::0::Input File
+LaTeX Font Info::CoverLetter.tex::51::0::   Font shape `OMS/pnc/m/n' in size <10.95> not available Font shape `OMS/cmsy/m/n' tried instead.
+Input File::CoverLetter.aux::0::0::Input File
