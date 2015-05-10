@@ -1,0 +1,48 @@
+Input File::invoice.tex::0::0::Input File
+Input File::article.cls::0::0::Input File
+Input Package::article.cls::0::0::article 2014/09/29 v1.4h Standard LaTeX document class
+Input File::size12.clo::0::0::Input File
+Input File::geometry.sty::0::0::Input File
+Input Package::geometry.sty::0::0::geometry 2010/09/12 v5.6 Page Geometry
+Input File::keyval.sty::0::0::Input File
+Input Package::keyval.sty::0::0::keyval 2014/10/28 v1.15 key=value parser (DPC)
+Input File::ifpdf.sty::0::0::Input File
+Input Package::ifpdf.sty::0::0::ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package Info::ifpdf.sty::0::0::pdfTeX in PDF mode is not detected. (ifpdf)
+Input File::ifvtex.sty::0::0::Input File
+Input Package::ifvtex.sty::0::0::ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package Info::ifvtex.sty::0::0::VTeX not detected. (ifvtex)
+Input File::ifxetex.sty::0::0::Input File
+Input Package::ifxetex.sty::0::0::ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+Input File::fontenc.sty::0::0::Input File
+Input Package::fontenc.sty::0::0::fontenc 2005/09/27 v1.99g Standard LaTeX package
+Input File::t1enc.def::0::0::Input File
+LaTeX Font Info::t1enc.def::43::0::   Redeclaring font encoding T1.
+Input File::enumitem.sty::0::0::Input File
+Input Package::enumitem.sty::0::0::enumitem 2011/09/28 v3.5.2 Customized lists
+Input File::fancyhdr.sty::0::0::Input File
+Input File::lastpage.sty::0::0::Input File
+Input Package::lastpage.sty::0::0::lastpage 2013/01/28 v1.2l Refers to last page's name (HMM; JPG)
+Input File::url.sty::0::0::Input File
+Input Package::url.sty::0::0::url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+Input File::invoice.aux::0::0::Input File
+LaTeX Font Info::invoice.tex::17::0::   Checking defaults for OML/cmm/m/it.
+LaTeX Font Info::invoice.tex::17::0::   ... okay.
+LaTeX Font Info::invoice.tex::17::0::   Checking defaults for T1/cmr/m/n.
+LaTeX Font Info::invoice.tex::17::0::   ... okay.
+LaTeX Font Info::invoice.tex::17::0::   Checking defaults for OT1/cmr/m/n.
+LaTeX Font Info::invoice.tex::17::0::   ... okay.
+LaTeX Font Info::invoice.tex::17::0::   Checking defaults for OMS/cmsy/m/n.
+LaTeX Font Info::invoice.tex::17::0::   ... okay.
+LaTeX Font Info::invoice.tex::17::0::   Checking defaults for OMX/cmex/m/n.
+LaTeX Font Info::invoice.tex::17::0::   ... okay.
+LaTeX Font Info::invoice.tex::17::0::   Checking defaults for U/cmr/m/n.
+LaTeX Font Info::invoice.tex::17::0::   ... okay.
+Package Info::invoice.tex::17::0::Please have a look at the pageslts package at http://www.ctan.org/tex-archive/  macros/latex/contrib/pageslts/  or http://www.ctan.org/tex-archive/  install/macros/latex/contrib/pageslts.tds.zip !. (lastpage)
+LaTeX Font Info::invoice.tex::20::0::   Try loading font information for T1+cmtt.
+Input File::t1cmtt.fd::0::0::Input File
+LaTeX Font Info::invoice.tex::20::0::   External font `cmex10' loaded for size <12>.
+LaTeX Font Info::invoice.tex::20::0::   External font `cmex10' loaded for size <8>.
+LaTeX Font Info::invoice.tex::20::0::   External font `cmex10' loaded for size <6>.
+Package Warning::invoice.tex::0::0::\headheight is too small (12.0pt):  (Fancyhdr package)
+Input File::invoice.aux::0::0::Input File

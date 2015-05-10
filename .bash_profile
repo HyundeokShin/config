@@ -303,9 +303,10 @@ alias gignored='git ls-files -v | grep "^[[:lower:]]"'
 #-----------------------------------------------------------
 #{{{
 # Find a file with a pattern in name:
-function ff() { find . -type f -iname '*'"$*"'*' -ls ; }
-
-# Find a file with pattern $1 in name and Execute $2 on it:
+function ff() { find . -path ./Library -prune -o -type f -iname '*'"$*"'*' ; }
+function fd() { find . -path ./Library -prune -o -type d -iname '*'"$*"'*' ; }
+#
+# Find a file with pattern $* in name and Execute $2 on it:
 function fe() { find . -type f -iname '*'"${1:-}"'*' \
                 -exec ${2:-file} {} \;  ; }
 

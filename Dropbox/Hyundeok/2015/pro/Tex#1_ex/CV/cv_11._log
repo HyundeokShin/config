@@ -1,0 +1,179 @@
+Input File::cv_11.tex::0::0::Input File
+Input File::article.cls::0::0::Input File
+Input Package::article.cls::0::0::article 2014/09/29 v1.4h Standard LaTeX document class
+Input File::size10.clo::0::0::Input File
+Input File::structure.tex::0::0::Input File
+Input File::geometry.sty::0::0::Input File
+Input Package::geometry.sty::0::0::geometry 2010/09/12 v5.6 Page Geometry
+Input File::keyval.sty::0::0::Input File
+Input Package::keyval.sty::0::0::keyval 2014/10/28 v1.15 key=value parser (DPC)
+Input File::ifpdf.sty::0::0::Input File
+Input Package::ifpdf.sty::0::0::ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package Info::ifpdf.sty::0::0::pdfTeX in PDF mode is not detected. (ifpdf)
+Input File::ifvtex.sty::0::0::Input File
+Input Package::ifvtex.sty::0::0::ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package Info::ifvtex.sty::0::0::VTeX not detected. (ifvtex)
+Input File::ifxetex.sty::0::0::Input File
+Input Package::ifxetex.sty::0::0::ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+Input File::multicol.sty::0::0::Input File
+Input Package::multicol.sty::0::0::multicol 2014/10/28 v1.8i multicolumn formatting (FMi)
+Input File::mdwlist.sty::0::0::Input File
+Input Package::mdwlist.sty::0::0::mdwlist 1996/05/02 1.1 Various list-related things
+Input File::relsize.sty::0::0::Input File
+Input Package::relsize.sty::0::0::relsize 2013/03/29 ver 4.1
+Input File::hyperref.sty::0::0::Input File
+Input Package::hyperref.sty::0::0::hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+Input File::hobsub-hyperref.sty::0::0::Input File
+Input Package::hobsub-hyperref.sty::0::0::hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+Input File::hobsub-generic.sty::0::0::Input File
+Input Package::hobsub-generic.sty::0::0::hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Input Package::hobsub-generic.sty::0::0::hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Input Package::hobsub-generic.sty::0::0::infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+Input Package::hobsub-generic.sty::0::0::ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+Input Package::hobsub-generic.sty::0::0::ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package Info::hobsub-generic.sty::0::0::LuaTeX not detected. (ifluatex)
+Package Info::hobsub-generic.sty::0::0::Skipping package `ifvtex' (already loaded). (hobsub)
+Input Package::hobsub-generic.sty::0::0::intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package Info::hobsub-generic.sty::0::0::Skipping package `ifpdf' (already loaded). (hobsub)
+Input Package::hobsub-generic.sty::0::0::etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package Info::hobsub-generic.sty::0::0::Could not find \expanded. That can mean that you are not using pdfTeX 1.50 or that some package has redefined \expanded. In the latter case, load this package earlier. (etexcmds)
+Input Package::hobsub-generic.sty::0::0::kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Input Package::hobsub-generic.sty::0::0::kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Input Package::hobsub-generic.sty::0::0::pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+Package Info::hobsub-generic.sty::0::0::LuaTeX not detected. (pdftexcmds)
+Package Info::hobsub-generic.sty::0::0::pdfTeX >= 1.30 not detected. (pdftexcmds)
+Package Info::hobsub-generic.sty::0::0::\pdf@primitive is available. (pdftexcmds)
+Package Info::hobsub-generic.sty::0::0::\pdf@ifprimitive is available. (pdftexcmds)
+Package Info::hobsub-generic.sty::0::0::\pdfdraftmode not found. (pdftexcmds)
+Input Package::hobsub-generic.sty::0::0::pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Input Package::hobsub-generic.sty::0::0::bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+Input Package::hobsub-generic.sty::0::0::bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Input Package::hobsub-generic.sty::0::0::uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+Package Info::hobsub-hyperref.sty::0::0::Skipping package `hobsub' (already loaded). (hobsub)
+Input Package::hobsub-hyperref.sty::0::0::letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Input Package::hobsub-hyperref.sty::0::0::hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Input Package::hobsub-hyperref.sty::0::0::xcolor-patch 2011/01/30 xcolor patch
+Input Package::hobsub-hyperref.sty::0::0::atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package Info::hobsub-hyperref.sty::0::0::\enddocument detected (standard20110627). (atveryend)
+Input Package::hobsub-hyperref.sty::0::0::atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Input Package::hobsub-hyperref.sty::0::0::refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Input Package::hobsub-hyperref.sty::0::0::hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+Input File::auxhook.sty::0::0::Input File
+Input Package::auxhook.sty::0::0::auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+Input File::kvoptions.sty::0::0::Input File
+Input Package::kvoptions.sty::0::0::kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+Input File::pd1enc.def::0::0::Input File
+Input File::hyperref.cfg::0::0::Input File
+Package Info::hyperref.sty::4443::0::Hyper figures OFF. (hyperref)
+Package Info::hyperref.sty::4448::0::Link nesting OFF. (hyperref)
+Package Info::hyperref.sty::4451::0::Hyper index ON. (hyperref)
+Package Info::hyperref.sty::4458::0::Plain pages OFF. (hyperref)
+Package Info::hyperref.sty::4463::0::Backreferencing OFF. (hyperref)
+Package Info::hyperref.sty::0::0::Implicit mode ON; LaTeX internals redefined. (hyperref)
+Package Info::hyperref.sty::4688::0::Bookmarks ON. (hyperref)
+Input File::url.sty::0::0::Input File
+Input Package::url.sty::0::0::url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+LaTeX Info::hyperref.sty::5041::0::Redefining \url.
+Package Info::hyperref.sty::6295::0::Hyper figures OFF. (hyperref)
+Package Info::hyperref.sty::6300::0::Link nesting OFF. (hyperref)
+Package Info::hyperref.sty::6303::0::Hyper index ON. (hyperref)
+Package Info::hyperref.sty::6310::0::backreferencing OFF. (hyperref)
+Package Info::hyperref.sty::6315::0::Link coloring OFF. (hyperref)
+Package Info::hyperref.sty::6320::0::Link coloring with OCG OFF. (hyperref)
+Package Info::hyperref.sty::6325::0::PDF/A mode OFF. (hyperref)
+LaTeX Info::hyperref.sty::6365::0::Redefining \ref.
+LaTeX Info::hyperref.sty::6369::0::Redefining \pageref.
+Input File::hxetex.def::0::0::Input File
+Input File::puenc.def::0::0::Input File
+Input File::stringenc.sty::0::0::Input File
+Input Package::stringenc.sty::0::0::stringenc 2011/12/02 v1.10 Convert strings between diff. encodings (HO
+Input File::rerunfilecheck.sty::0::0::Input File
+Input Package::rerunfilecheck.sty::0::0::rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package Info::rerunfilecheck.sty::0::0::Feature \pdfmdfivesum is not available (e.g. pdfTeX or LuaTeX with package `pdftexcmds'). (rerunfilecheck)
+Input File::xcolor.sty::0::0::Input File
+Input Package::xcolor.sty::0::0::xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+Input File::color.cfg::0::0::Input File
+Package Info::xcolor.sty::225::0::Driver file: xetex.def. (xcolor)
+Input File::xetex.def::0::0::Input File
+Package Info::xcolor.sty::1337::0::Model `cmy' substituted by `cmy0'. (xcolor)
+Package Info::xcolor.sty::1353::0::Model `RGB' extended. (xcolor)
+Package Info::xcolor.sty::1355::0::Model `HTML' substituted by `rgb'. (xcolor)
+Package Info::xcolor.sty::1356::0::Model `Hsb' substituted by `hsb'. (xcolor)
+Package Info::xcolor.sty::1357::0::Model `tHsb' substituted by `hsb'. (xcolor)
+Package Info::xcolor.sty::1358::0::Model `HSB' substituted by `hsb'. (xcolor)
+Package Info::xcolor.sty::1359::0::Model `Gray' substituted by `gray'. (xcolor)
+Package Info::xcolor.sty::1360::0::Model `wave' substituted by `hsb'. (xcolor)
+Package Info::structure.tex::32::0::Option `colorlinks' set `true'. (hyperref)
+Input File::tgpagella.sty::0::0::Input File
+Input Package::tgpagella.sty::0::0::tgpagella 2009/09/27 v1.2 TeX Gyre Pagella as default roman family
+Input File::fontenc.sty::0::0::Input File
+Input Package::fontenc.sty::0::0::fontenc 2005/09/27 v1.99g Standard LaTeX package
+Input File::t1enc.def::0::0::Input File
+LaTeX Font Info::t1enc.def::43::0::   Redeclaring font encoding T1.
+LaTeX Font Info::fontenc.sty::100::0::   Try loading font information for T1+qpl.
+Input File::t1qpl.fd::0::0::Input File
+Input File::microtype.sty::0::0::Input File
+Input Package::microtype.sty::0::0::microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
+LaTeX Info::microtype.sty::766::0::Redefining \textls.
+LaTeX Info::microtype.sty::1285::0::Redefining \textmicrotypecontext.
+Input File::microtype-xetex.def::0::0::Input File
+LaTeX Info::microtype-xetex.def::254::0::Redefining \lsstyle.
+Package Info::microtype.sty::0::0::Loading configuration file microtype.cfg. (microtype)
+Input File::microtype.cfg::0::0::Input File
+Input File::cv_11.aux::0::0::Input File
+LaTeX Font Info::cv_11.tex::31::0::   Checking defaults for OML/cmm/m/it.
+LaTeX Font Info::cv_11.tex::31::0::   ... okay.
+LaTeX Font Info::cv_11.tex::31::0::   Checking defaults for T1/cmr/m/n.
+LaTeX Font Info::cv_11.tex::31::0::   ... okay.
+LaTeX Font Info::cv_11.tex::31::0::   Checking defaults for OT1/cmr/m/n.
+LaTeX Font Info::cv_11.tex::31::0::   ... okay.
+LaTeX Font Info::cv_11.tex::31::0::   Checking defaults for OMS/cmsy/m/n.
+LaTeX Font Info::cv_11.tex::31::0::   ... okay.
+LaTeX Font Info::cv_11.tex::31::0::   Checking defaults for OMX/cmex/m/n.
+LaTeX Font Info::cv_11.tex::31::0::   ... okay.
+LaTeX Font Info::cv_11.tex::31::0::   Checking defaults for U/cmr/m/n.
+LaTeX Font Info::cv_11.tex::31::0::   ... okay.
+LaTeX Font Info::cv_11.tex::31::0::   Checking defaults for PD1/pdf/m/n.
+LaTeX Font Info::cv_11.tex::31::0::   ... okay.
+LaTeX Font Info::cv_11.tex::31::0::   Checking defaults for PU/pdf/m/n.
+LaTeX Font Info::cv_11.tex::31::0::   ... okay.
+Package Info::cv_11.tex::31::0::Link coloring ON. (hyperref)
+Input File::nameref.sty::0::0::Input File
+Input Package::nameref.sty::0::0::nameref 2012/10/27 v2.43 Cross-referencing by name of section
+Input File::gettitlestring.sty::0::0::Input File
+Input Package::gettitlestring.sty::0::0::gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+LaTeX Info::cv_11.tex::31::0::Redefining \ref.
+LaTeX Info::cv_11.tex::31::0::Redefining \pageref.
+LaTeX Info::cv_11.tex::31::0::Redefining \nameref.
+Input File::cv_11.out::0::0::Input File
+Input File::cv_11.out::0::0::Input File
+LaTeX Info::cv_11.tex::31::0::Redefining \microtypecontext.
+Package Info::cv_11.tex::0::0::Character protrusion enabled (level 2). (microtype)
+Package Info::cv_11.tex::0::0::Using default protrusion set `alltext'. (microtype)
+Package Info::cv_11.tex::0::0::No adjustment of tracking. (microtype)
+Package Info::cv_11.tex::0::0::No adjustment of spacing. (microtype)
+Package Info::cv_11.tex::0::0::No adjustment of kerning. (microtype)
+Input File::mt-ppl.cfg::0::0::Input File
+Package Warning::cv_11.tex::39::0::Font size 40.0pt is too large. Using 24.88pt instead. (relsize package)
+Input File::mt-cmr.cfg::0::0::Input File
+LaTeX Font Info::cv_11.tex::39::0::   External font `cmex10' loaded for size <24.88>.
+LaTeX Font Info::cv_11.tex::39::0::   External font `cmex10' loaded for size <20.74>.
+LaTeX Font Info::cv_11.tex::39::0::   External font `cmex10' loaded for size <17.28>.
+Package Warning::cv_11.tex::40::0::Font size 40.0pt is too large. Using 24.88pt instead. (relsize package)
+Package Warning::cv_11.tex::40::0::Font size 40.0pt is too large. Using 24.88pt instead. (relsize package)
+Package Warning::cv_11.tex::42::0::Font size 40.0pt is too large. Using 24.88pt instead. (relsize package)
+Package Warning::cv_11.tex::42::0::Font size 40.0pt is too large. Using 24.88pt instead. (relsize package)
+Package Warning::cv_11.tex::42::0::Font size 40.0pt is too large. Using 24.88pt instead. (relsize package)
+hbox Warning::cv_11.tex::55::0::Underfull \hbox (badness 10000) in paragraph at lines 55--63
+Package Info::cv_11.tex::0::0::Character `029' is missing in font `T1/qpl/m/sc/10'. Ignoring protrusion settings for this character. (microtype)
+hbox Warning::cv_11.tex::114::0::Overfull \hbox (0.73904pt too wide) in paragraph at lines 114--114
+Package Info::cv_11.tex::0::0::Character `029' is missing in font `T1/qpl/m/sc/9'. Ignoring protrusion settings for this character. (microtype)
+Input File::se-ascii-print.def::0::0::Input File
+LaTeX Font Info::cv_11.tex::269::0::   External font `cmex10' loaded for size <7>.
+LaTeX Font Info::cv_11.tex::269::0::   External font `cmex10' loaded for size <5>.
+Package Info::cv_11.tex::273::0::Empty hook `BeforeClearDocument'. (atveryend)
+Package Info::cv_11.tex::273::0::Empty hook `AfterLastShipout'. (atveryend)
+Input File::cv_11.aux::0::0::Input File
+Package Info::cv_11.tex::273::0::Empty hook `AtVeryEndDocument'. (atveryend)
+Package Info::cv_11.tex::273::0::Empty hook `AtEndAfterFileList'. (atveryend)
+Package Info::cv_11.tex::273::0::Empty hook `AtVeryVeryEnd'. (atveryend)

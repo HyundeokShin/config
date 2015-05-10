@@ -1,0 +1,19 @@
+[0] Config.pm:320> INFO - This is Biber 1.9
+[0] Config.pm:323> INFO - Logfile is 'cv_4.blg'
+[104] biber-darwin:277> INFO - === Mon May  4, 2015, 15:28:03
+[104] Biber.pm:333> INFO - Reading 'cv_4.bcf'
+[281] Biber.pm:632> INFO - Using all citekeys in bib section 0
+[337] Biber.pm:3051> INFO - Processing section 0
+[375] Biber.pm:3189> INFO - Looking for bibtex format file 'cv_4.bib' for section 0
+[379] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
+[380] bibtex.pm:864> INFO - Found BibTeX data source 'cv_4.bib'
+[415] Utils.pm:144> WARN - The field 'booktitle' in entry 'hu2014case' cannot be null, deleting it
+[416] Utils.pm:144> WARN - The field 'journaltitle' in entry 'amos2014QNSTOP' cannot be null, deleting it
+[561] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[561] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[562] Biber.pm:2928> INFO - Sorting list 'none' of type 'entry' with scheme 'none' and locale 'en-US'
+[562] Biber.pm:2932> INFO - No sort tailoring available for locale 'en-US'
+[591] bbl.pm:517> INFO - Writing 'cv_4.bbl' with encoding 'ascii'
+[596] Utils.pm:144> WARN - The entry 'turner2014bad' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[597] bbl.pm:606> INFO - Output to cv_4.bbl
+[597] Biber.pm:106> INFO - WARNINGS: 3

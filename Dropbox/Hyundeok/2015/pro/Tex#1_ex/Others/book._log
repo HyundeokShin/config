@@ -1,0 +1,100 @@
+Input File::book.tex::0::0::Input File
+Input File::scrbook.cls::0::0::Input File
+Input Package::scrbook.cls::0::0::scrbook 2015/02/07 v3.16 KOMA-Script document class (book)
+Input File::scrkbase.sty::0::0::Input File
+Input Package::scrkbase.sty::0::0::scrkbase 2015/02/07 v3.16 KOMA-Script package (KOMA-Script-dependent b
+Input File::scrbase.sty::0::0::Input File
+Input Package::scrbase.sty::0::0::scrbase 2015/02/07 v3.16 KOMA-Script package (KOMA-Script-independent 
+Input File::keyval.sty::0::0::Input File
+Input Package::keyval.sty::0::0::keyval 2014/10/28 v1.15 key=value parser (DPC)
+Input File::scrlfile.sty::0::0::Input File
+Input Package::scrlfile.sty::0::0::scrlfile 2015/02/07 v3.16 KOMA-Script package (loading files)
+Input File::tocbasic.sty::0::0::Input File
+Input Package::tocbasic.sty::0::0::tocbasic 2015/02/07 v3.16 KOMA-Script package (handling toc-files)
+Package Info::scrkbase.sty::118::0::omitting babel extension for `toc' because of feature `nobabel' available for `toc'. (tocbasic)
+Package Info::scrkbase.sty::119::0::omitting babel extension for `lof' because of feature `nobabel' available for `lof'. (tocbasic)
+Package Info::scrkbase.sty::120::0::omitting babel extension for `lot' because of feature `nobabel' available for `lot'. (tocbasic)
+Package Info::scrkbase.sty::117::0::defining new hook before heading of `' (tocbasic)
+Package Info::scrkbase.sty::0::0::You've used standard option `10pt'. This is correct! Internally I'm using `fontsize=10pt'. If you'd like to set the option with \KOMAoptions, you'd have to use `fontsize=10pt' there instead of `10pt', too. (scrbook)
+Input File::scrsize10pt.clo::0::0::Input File
+Input File::typearea.sty::0::0::Input File
+Input Package::typearea.sty::0::0::typearea 2015/02/07 v3.16 KOMA-Script package (type area)
+Package Info::typearea.sty::0::0::You've used standard option `a5paper'. This is correct! Internally I'm using `paper=a5'. If you'd like to set the option with \KOMAoptions, you'd have to use `paper=a5' there instead of `a5paper', too. (typearea)
+Package Info::typearea.sty::1342::0::These are the values describing the layout: DIV  = 9 BCOR = 0.0pt \paperwidth      = 421.10083pt \textwidth      = 280.73392pt DIV departure   = 14% \evensidemargin = -2.08653pt \oddsidemargin  = -2.08653pt \paperheight     = 597.50793pt \textheight     = 406.0pt \topmargin      = -38.88022pt \headheight     = 15.0pt \headsep        = 18.0pt \topskip        = 10.0pt \footskip       = 42.0pt \baselineskip   = 12.0pt. (typearea)
+Package Info::typearea.sty::9::0::These are the values describing the layout: DIV  = 9 BCOR = 0.0pt \paperwidth      = 421.10083pt \textwidth      = 280.73392pt DIV departure   = 14% \evensidemargin = -2.08653pt \oddsidemargin  = -2.08653pt \paperheight     = 597.50793pt \textheight     = 406.0pt \topmargin      = -38.88022pt \headheight     = 15.0pt \headsep        = 18.0pt \topskip        = 10.0pt \footskip       = 42.0pt \baselineskip   = 12.0pt. (typearea)
+Input File::trajan.sty::0::0::Input File
+Input Package::trajan.sty::0::0::trajan 2005/06/29 v1.1 package for Trajan fonts
+Input File::babel.sty::0::0::Input File
+Input Package::babel.sty::0::0::babel 2014/09/25 3.9l The Babel package
+Input File::babel.def::0::0::Input File
+Input File::xebabel.def::0::0::Input File
+Package Info::babel.sty::88::0::Making " an active character. (babel)
+Input File::inputenc.sty::0::0::Input File
+Input Package::inputenc.sty::0::0::inputenc 2014/04/30 v1.2b Input encoding file
+Package Warning::inputenc.sty::0::0::inputenc package ignored with utf8 based engines. (inputenc package)
+Input File::fontenc.sty::0::0::Input File
+Input Package::fontenc.sty::0::0::fontenc 2005/09/27 v1.99g Standard LaTeX package
+Input File::t1enc.def::0::0::Input File
+LaTeX Font Info::t1enc.def::43::0::   Redeclaring font encoding T1.
+Input File::csquotes.sty::0::0::Input File
+Input Package::csquotes.sty::0::0::csquotes 2011/10/22 v5.1d context-sensitive quotations
+Input File::etoolbox.sty::0::0::Input File
+Input Package::etoolbox.sty::0::0::etoolbox 2015/03/10 v2.1b e-TeX tools for LaTeX (JAW)
+Input File::etex.sty::0::0::Input File
+Input Package::etex.sty::0::0::etex 2015/03/02 v2.1 eTeX basic definition package (PEB,DPC)
+Input File::csquotes.def::0::0::Input File
+Package Info::csquotes.sty::0::0::Trying to load configuration file 'csquotes.cfg'... (csquotes)
+Package Info::csquotes.sty::0::0::... configuration file loaded successfully. (csquotes)
+Input File::csquotes.cfg::0::0::Input File
+Package Info::csquotes.sty::0::0::Option 'babel' depreciated. Using 'autostyle'. (csquotes)
+Package Info::csquotes.sty::0::0::Enabling multilingual quotes. (csquotes)
+Package Info::csquotes.sty::0::0::Redefining alias 'german' -> 'german/guillemets'. (csquotes)
+Input File::mathpazo.sty::0::0::Input File
+Input Package::mathpazo.sty::0::0::mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
+Input File::verbatim.sty::0::0::Input File
+Input Package::verbatim.sty::0::0::verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+Input File::listings.sty::0::0::Input File
+Input File::lstmisc.sty::0::0::Input File
+Input File::listings.cfg::0::0::Input File
+Input Package::typearea.sty::0::0::listings 2014/09/06 1.5e (Carsten Heinz)
+Input File::blindtext.sty::0::0::Input File
+Input Package::blindtext.sty::0::0::blindtext 2012/01/06 V2.0 blindtext-Package
+Input File::xspace.sty::0::0::Input File
+Input Package::xspace.sty::0::0::xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+Package Info::typearea.sty::0::0::Checking for multilingual support... (csquotes)
+Package Info::typearea.sty::0::0::... found 'babel' package. (csquotes)
+Input File::book.aux::0::0::Input File
+LaTeX Font Info::typearea.sty::36::0::   Checking defaults for OML/cmm/m/it.
+LaTeX Font Info::typearea.sty::36::0::   ... okay.
+LaTeX Font Info::typearea.sty::36::0::   Checking defaults for T1/cmr/m/n.
+LaTeX Font Info::typearea.sty::36::0::   ... okay.
+LaTeX Font Info::typearea.sty::36::0::   Checking defaults for OT1/cmr/m/n.
+LaTeX Font Info::typearea.sty::36::0::   ... okay.
+LaTeX Font Info::typearea.sty::36::0::   Checking defaults for OMS/cmsy/m/n.
+LaTeX Font Info::typearea.sty::36::0::   ... okay.
+LaTeX Font Info::typearea.sty::36::0::   Checking defaults for OMX/cmex/m/n.
+LaTeX Font Info::typearea.sty::36::0::   ... okay.
+LaTeX Font Info::typearea.sty::36::0::   Checking defaults for U/cmr/m/n.
+LaTeX Font Info::typearea.sty::36::0::   ... okay.
+LaTeX Font Info::typearea.sty::36::0::   Try loading font information for T1+pplx.
+Input File::t1pplx.fd::0::0::Input File
+LaTeX Font Info::typearea.sty::70::0::   Try loading font information for OT1+pplx.
+Input File::ot1pplx.fd::0::0::Input File
+LaTeX Font Info::typearea.sty::70::0::   Try loading font information for OML+zplm.
+Input File::omlzplm.fd::0::0::Input File
+LaTeX Font Info::typearea.sty::70::0::   Try loading font information for OMS+zplm.
+Input File::omszplm.fd::0::0::Input File
+LaTeX Font Info::typearea.sty::70::0::   Try loading font information for OMX+zplm.
+Input File::omxzplm.fd::0::0::Input File
+LaTeX Font Info::typearea.sty::70::0::   Try loading font information for OT1+zplm.
+Input File::ot1zplm.fd::0::0::Input File
+hbox Warning::typearea.sty::70::0::Overfull \hbox (3.79364pt too wide) in paragraph at lines 70--72
+LaTeX Font Info::typearea.sty::78::0::   Try loading font information for T1+cmss.
+Input File::t1cmss.fd::0::0::Input File
+LaTeX Font Info::typearea.sty::78::0::   Font shape `T1/pplx/m/sl' in size <10> not available Font shape `T1/pplx/m/it' tried instead.
+LaTeX Font Info::typearea.sty::78::0::   Try loading font information for OMS+pplx.
+LaTeX Font Info::typearea.sty::78::0::   No file OMSpplx.fd..
+LaTeX Font Warning::typearea.sty::78::0::Font shape `OMS/pplx/m/n' undefined using `OMS/cmsy/m/n' instead using `OMS/cmsy/m/n' instead.
+LaTeX Font Info::typearea.sty::78::0::   Font shape `T1/pplx/bx/n' in size <10> not available Font shape `T1/pplx/b/n' tried instead.
+Input File::book.aux::0::0::Input File
+LaTeX Font Warning::typearea.sty::0::0::Some font shapes were not available, defaults substituted.

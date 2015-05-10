@@ -1,0 +1,141 @@
+Input File::angebot.tex::0::0::Input File
+Input File::scrlttr2.cls::0::0::Input File
+Input Package::scrlttr2.cls::0::0::scrlttr2 2015/02/07 v3.16 KOMA-Script document class (letter)
+Input File::scrkbase.sty::0::0::Input File
+Input Package::scrkbase.sty::0::0::scrkbase 2015/02/07 v3.16 KOMA-Script package (KOMA-Script-dependent b
+Input File::scrbase.sty::0::0::Input File
+Input Package::scrbase.sty::0::0::scrbase 2015/02/07 v3.16 KOMA-Script package (KOMA-Script-independent 
+Input File::keyval.sty::0::0::Input File
+Input Package::keyval.sty::0::0::keyval 2014/10/28 v1.15 key=value parser (DPC)
+Input File::scrlfile.sty::0::0::Input File
+Input Package::scrlfile.sty::0::0::scrlfile 2015/02/07 v3.16 KOMA-Script package (loading files)
+Input File::scrsize12pt.clo::0::0::Input File
+Input File::typearea.sty::0::0::Input File
+Input Package::typearea.sty::0::0::typearea 2015/02/07 v3.16 KOMA-Script package (type area)
+Package Info::typearea.sty::1342::0::These are the values describing the layout: DIV  = 12 BCOR = 0.0pt \paperwidth      = 597.50793pt \textwidth      = 448.13095pt DIV departure   = -6% \evensidemargin = 2.4185pt \oddsidemargin  = 2.4185pt \paperheight     = 845.04694pt \textheight     = 635.5pt \topmargin      = -41.72441pt \headheight     = 18.125pt \headsep        = 21.75pt \topskip        = 12.0pt \footskip       = 50.75pt \baselineskip   = 14.5pt. (typearea)
+Input File::ngerman.sty::0::0::Input File
+Input Package::ngerman.sty::0::0::ngerman 1998/07/08 v2.5e Support for writing german texts (br)
+Input File::inputenc.sty::0::0::Input File
+Input Package::inputenc.sty::0::0::inputenc 2014/04/30 v1.2b Input encoding file
+Package Warning::inputenc.sty::0::0::inputenc package ignored with utf8 based engines. (inputenc package)
+Input File::fontenc.sty::0::0::Input File
+Input Package::fontenc.sty::0::0::fontenc 2005/09/27 v1.99g Standard LaTeX package
+Input File::t1enc.def::0::0::Input File
+LaTeX Font Info::t1enc.def::43::0::   Redeclaring font encoding T1.
+Input File::textcomp.sty::0::0::Input File
+Input Package::textcomp.sty::0::0::textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package Info::textcomp.sty::0::0::Sub-encoding information: 5 = only ISO-Adobe without \textcurrency 4 = 5 + \texteuro 3 = 4 + \textohm 2 = 3 + \textestimated + \textcurrency 1 = TS1 - \textcircled - \t 0 = TS1 (full) Font families with sub-encoding setting implement only a restricted character set as indicated. Family '?' is the default used for unknown fonts. See the documentation for details. (textcomp)
+Package Info::textcomp.sty::71::0::Setting ? sub-encoding to TS1/1. (textcomp)
+Input File::ts1enc.def::0::0::Input File
+LaTeX Info::textcomp.sty::266::0::Redefining \oldstylenums.
+Package Info::textcomp.sty::281::0::Setting cmr sub-encoding to TS1/0. (textcomp)
+Package Info::textcomp.sty::282::0::Setting cmss sub-encoding to TS1/0. (textcomp)
+Package Info::textcomp.sty::283::0::Setting cmtt sub-encoding to TS1/0. (textcomp)
+Package Info::textcomp.sty::284::0::Setting cmvtt sub-encoding to TS1/0. (textcomp)
+Package Info::textcomp.sty::285::0::Setting cmbr sub-encoding to TS1/0. (textcomp)
+Package Info::textcomp.sty::286::0::Setting cmtl sub-encoding to TS1/0. (textcomp)
+Package Info::textcomp.sty::287::0::Setting ccr sub-encoding to TS1/0. (textcomp)
+Package Info::textcomp.sty::288::0::Setting ptm sub-encoding to TS1/4. (textcomp)
+Package Info::textcomp.sty::289::0::Setting pcr sub-encoding to TS1/4. (textcomp)
+Package Info::textcomp.sty::290::0::Setting phv sub-encoding to TS1/4. (textcomp)
+Package Info::textcomp.sty::291::0::Setting ppl sub-encoding to TS1/3. (textcomp)
+Package Info::textcomp.sty::292::0::Setting pag sub-encoding to TS1/4. (textcomp)
+Package Info::textcomp.sty::293::0::Setting pbk sub-encoding to TS1/4. (textcomp)
+Package Info::textcomp.sty::294::0::Setting pnc sub-encoding to TS1/4. (textcomp)
+Package Info::textcomp.sty::295::0::Setting pzc sub-encoding to TS1/4. (textcomp)
+Package Info::textcomp.sty::296::0::Setting bch sub-encoding to TS1/4. (textcomp)
+Package Info::textcomp.sty::297::0::Setting put sub-encoding to TS1/5. (textcomp)
+Package Info::textcomp.sty::298::0::Setting uag sub-encoding to TS1/5. (textcomp)
+Package Info::textcomp.sty::299::0::Setting ugq sub-encoding to TS1/5. (textcomp)
+Package Info::textcomp.sty::300::0::Setting ul8 sub-encoding to TS1/4. (textcomp)
+Package Info::textcomp.sty::301::0::Setting ul9 sub-encoding to TS1/4. (textcomp)
+Package Info::textcomp.sty::302::0::Setting augie sub-encoding to TS1/5. (textcomp)
+Package Info::textcomp.sty::303::0::Setting dayrom sub-encoding to TS1/3. (textcomp)
+Package Info::textcomp.sty::304::0::Setting dayroms sub-encoding to TS1/3. (textcomp)
+Package Info::textcomp.sty::305::0::Setting pxr sub-encoding to TS1/0. (textcomp)
+Package Info::textcomp.sty::306::0::Setting pxss sub-encoding to TS1/0. (textcomp)
+Package Info::textcomp.sty::307::0::Setting pxtt sub-encoding to TS1/0. (textcomp)
+Package Info::textcomp.sty::308::0::Setting txr sub-encoding to TS1/0. (textcomp)
+Package Info::textcomp.sty::309::0::Setting txss sub-encoding to TS1/0. (textcomp)
+Package Info::textcomp.sty::310::0::Setting txtt sub-encoding to TS1/0. (textcomp)
+Package Info::textcomp.sty::311::0::Setting lmr sub-encoding to TS1/0. (textcomp)
+Package Info::textcomp.sty::312::0::Setting lmdh sub-encoding to TS1/0. (textcomp)
+Package Info::textcomp.sty::313::0::Setting lmss sub-encoding to TS1/0. (textcomp)
+Package Info::textcomp.sty::314::0::Setting lmssq sub-encoding to TS1/0. (textcomp)
+Package Info::textcomp.sty::315::0::Setting lmvtt sub-encoding to TS1/0. (textcomp)
+Package Info::textcomp.sty::316::0::Setting qhv sub-encoding to TS1/0. (textcomp)
+Package Info::textcomp.sty::317::0::Setting qag sub-encoding to TS1/0. (textcomp)
+Package Info::textcomp.sty::318::0::Setting qbk sub-encoding to TS1/0. (textcomp)
+Package Info::textcomp.sty::319::0::Setting qcr sub-encoding to TS1/0. (textcomp)
+Package Info::textcomp.sty::320::0::Setting qcs sub-encoding to TS1/0. (textcomp)
+Package Info::textcomp.sty::321::0::Setting qpl sub-encoding to TS1/0. (textcomp)
+Package Info::textcomp.sty::322::0::Setting qtm sub-encoding to TS1/0. (textcomp)
+Package Info::textcomp.sty::323::0::Setting qzc sub-encoding to TS1/0. (textcomp)
+Package Info::textcomp.sty::324::0::Setting qhvc sub-encoding to TS1/0. (textcomp)
+Package Info::textcomp.sty::325::0::Setting futs sub-encoding to TS1/4. (textcomp)
+Package Info::textcomp.sty::326::0::Setting futx sub-encoding to TS1/4. (textcomp)
+Package Info::textcomp.sty::327::0::Setting futj sub-encoding to TS1/4. (textcomp)
+Package Info::textcomp.sty::328::0::Setting hlh sub-encoding to TS1/3. (textcomp)
+Package Info::textcomp.sty::329::0::Setting hls sub-encoding to TS1/3. (textcomp)
+Package Info::textcomp.sty::330::0::Setting hlst sub-encoding to TS1/3. (textcomp)
+Package Info::textcomp.sty::331::0::Setting hlct sub-encoding to TS1/5. (textcomp)
+Package Info::textcomp.sty::332::0::Setting hlx sub-encoding to TS1/5. (textcomp)
+Package Info::textcomp.sty::333::0::Setting hlce sub-encoding to TS1/5. (textcomp)
+Package Info::textcomp.sty::334::0::Setting hlcn sub-encoding to TS1/5. (textcomp)
+Package Info::textcomp.sty::335::0::Setting hlcw sub-encoding to TS1/5. (textcomp)
+Package Info::textcomp.sty::336::0::Setting hlcf sub-encoding to TS1/5. (textcomp)
+Package Info::textcomp.sty::337::0::Setting pplx sub-encoding to TS1/3. (textcomp)
+Package Info::textcomp.sty::338::0::Setting pplj sub-encoding to TS1/3. (textcomp)
+Package Info::textcomp.sty::339::0::Setting ptmx sub-encoding to TS1/4. (textcomp)
+Package Info::textcomp.sty::340::0::Setting ptmj sub-encoding to TS1/4. (textcomp)
+Input File::longtable.sty::0::0::Input File
+Input Package::longtable.sty::0::0::longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+Input File::eurosym.sty::0::0::Input File
+Input Package::eurosym.sty::0::0::eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
+Input File::angebot.aux::0::0::Input File
+LaTeX Font Info::typearea.sty::58::0::   Checking defaults for OML/cmm/m/it.
+LaTeX Font Info::typearea.sty::58::0::   ... okay.
+LaTeX Font Info::typearea.sty::58::0::   Checking defaults for T1/cmr/m/n.
+LaTeX Font Info::typearea.sty::58::0::   ... okay.
+LaTeX Font Info::typearea.sty::58::0::   Checking defaults for OT1/cmr/m/n.
+LaTeX Font Info::typearea.sty::58::0::   ... okay.
+LaTeX Font Info::typearea.sty::58::0::   Checking defaults for OMS/cmsy/m/n.
+LaTeX Font Info::typearea.sty::58::0::   ... okay.
+LaTeX Font Info::typearea.sty::58::0::   Checking defaults for OMX/cmex/m/n.
+LaTeX Font Info::typearea.sty::58::0::   ... okay.
+LaTeX Font Info::typearea.sty::58::0::   Checking defaults for U/cmr/m/n.
+LaTeX Font Info::typearea.sty::58::0::   ... okay.
+LaTeX Font Info::typearea.sty::58::0::   Checking defaults for TS1/cmr/m/n.
+LaTeX Font Info::typearea.sty::58::0::   Try loading font information for TS1+cmr.
+Input File::ts1cmr.fd::0::0::Input File
+LaTeX Font Info::typearea.sty::58::0::   ... okay.
+Package Info::typearea.sty::58::0::activating ngerman \yourrefname. (scrbase)
+Package Info::typearea.sty::58::0::activating ngerman \yourmailname. (scrbase)
+Package Info::typearea.sty::58::0::activating ngerman \myrefname. (scrbase)
+Package Info::typearea.sty::58::0::activating ngerman \customername. (scrbase)
+Package Info::typearea.sty::58::0::activating ngerman \invoicename. (scrbase)
+Package Info::typearea.sty::58::0::activating ngerman \subjectname. (scrbase)
+Package Info::typearea.sty::58::0::activating ngerman \headfromname. (scrbase)
+Package Info::typearea.sty::58::0::activating ngerman \datename. (scrbase)
+Package Info::typearea.sty::58::0::activating ngerman \phonename. (scrbase)
+Package Info::typearea.sty::58::0::activating ngerman \mobilephonename. (scrbase)
+Package Info::typearea.sty::58::0::activating ngerman \faxname. (scrbase)
+Package Info::typearea.sty::58::0::activating ngerman \emailname. (scrbase)
+Package Info::typearea.sty::58::0::activating ngerman \wwwname. (scrbase)
+Package Info::typearea.sty::58::0::activating ngerman \bankname. (scrbase)
+LaTeX Font Info::typearea.sty::70::0::   External font `cmex10' loaded for size <7>.
+LaTeX Font Info::typearea.sty::70::0::   External font `cmex10' loaded for size <5>.
+hbox Warning::typearea.sty::70::0::Overfull \hbox (2.61049pt too wide) in paragraph at lines 70--70
+LaTeX Font Info::typearea.sty::70::0::   External font `cmex10' loaded for size <12>.
+LaTeX Font Info::typearea.sty::70::0::   External font `cmex10' loaded for size <8>.
+LaTeX Font Info::typearea.sty::70::0::   External font `cmex10' loaded for size <6>.
+LaTeX Font Info::typearea.sty::70::0::   Try loading font information for T1+cmss.
+Input File::t1cmss.fd::0::0::Input File
+hbox Warning::typearea.sty::76::0::Overfull \hbox (5.15297pt too wide) in paragraph at lines 76--76
+hbox Warning::typearea.sty::76::0::Underfull \hbox (badness 10000) in paragraph at lines 76--76
+hbox Warning::typearea.sty::76::0::Underfull \hbox (badness 10000) in paragraph at lines 76--77
+hbox Warning::typearea.sty::93::0::Overfull \hbox (29.0172pt too wide) in paragraph at lines 93--94
+hbox Warning::typearea.sty::74::0::Overfull \hbox (50.66032pt too wide) in alignment at lines 74--101
+hbox Warning::typearea.sty::105::0::Overfull \hbox (3.13121pt too wide) in paragraph at lines 105--105
+hbox Warning::typearea.sty::104::0::Overfull \hbox (52.88672pt too wide) in alignment at lines 104--110
+Input File::angebot.aux::0::0::Input File

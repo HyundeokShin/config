@@ -1,0 +1,147 @@
+Input File::cv_6.tex::0::0::Input File
+Input File::scrartcl.cls::0::0::Input File
+Input Package::scrartcl.cls::0::0::scrartcl 2015/02/07 v3.16 KOMA-Script document class (article)
+Input File::scrkbase.sty::0::0::Input File
+Input Package::scrkbase.sty::0::0::scrkbase 2015/02/07 v3.16 KOMA-Script package (KOMA-Script-dependent b
+Input File::scrbase.sty::0::0::Input File
+Input Package::scrbase.sty::0::0::scrbase 2015/02/07 v3.16 KOMA-Script package (KOMA-Script-independent 
+Input File::keyval.sty::0::0::Input File
+Input Package::keyval.sty::0::0::keyval 2014/10/28 v1.15 key=value parser (DPC)
+Input File::scrlfile.sty::0::0::Input File
+Input Package::scrlfile.sty::0::0::scrlfile 2015/02/07 v3.16 KOMA-Script package (loading files)
+Input File::tocbasic.sty::0::0::Input File
+Input Package::tocbasic.sty::0::0::tocbasic 2015/02/07 v3.16 KOMA-Script package (handling toc-files)
+Package Info::scrkbase.sty::116::0::omitting babel extension for `toc' because of feature `nobabel' available for `toc'. (tocbasic)
+Package Info::scrkbase.sty::117::0::omitting babel extension for `lof' because of feature `nobabel' available for `lof'. (tocbasic)
+Package Info::scrkbase.sty::118::0::omitting babel extension for `lot' because of feature `nobabel' available for `lot'. (tocbasic)
+Input File::scrsize11pt.clo::0::0::Input File
+Input File::typearea.sty::0::0::Input File
+Input Package::typearea.sty::0::0::typearea 2015/02/07 v3.16 KOMA-Script package (type area)
+Package Info::typearea.sty::0::0::You've used standard option `a4paper'. This is correct! Internally I'm using `paper=a4'. If you'd like to set the option with \KOMAoptions, you'd have to use `paper=a4' there instead of `a4paper', too. (typearea)
+Package Info::typearea.sty::0::0::You've used standard option `oneside'. This is correct! Internally I'm using `twoside=false'. If you'd like to set the option with \KOMAoptions, you'd have to use `twoside=false' there instead of `oneside', too. (typearea)
+Package Info::typearea.sty::1342::0::These are the values describing the layout: DIV  = 10 BCOR = 0.0pt \paperwidth      = 597.50793pt \textwidth      = 418.25555pt DIV departure   = -6% \evensidemargin = 17.3562pt \oddsidemargin  = 17.3562pt \paperheight     = 845.04694pt \textheight     = 595.80026pt \topmargin      = -25.16531pt \headheight     = 17.0pt \headsep        = 20.40001pt \topskip        = 11.0pt \footskip       = 47.6pt \baselineskip   = 13.6pt. (typearea)
+Input File::scrpage2.sty::0::0::Input File
+Input Package::scrpage2.sty::0::0::scrpage2 2015/02/07 v3.16 KOMA-Script package (page head and foot)
+LaTeX Info::scrpage2.sty::174::0::Redefining \pagemark.
+Input File::titlesec.sty::0::0::Input File
+Input Package::titlesec.sty::0::0::titlesec 2011/12/15 v2.10.0 Sectioning titles
+Package Warning::titlesec.sty::0::0::Non standard sectioning command detected Using default spacing and no format. (titlesec package)
+Package Warning::titlesec.sty::0::0::Non standard sectioning command detected Using default spacing and no format. (titlesec package)
+Package Warning::titlesec.sty::0::0::Non standard sectioning command detected Using default spacing and no format. (titlesec package)
+Package Warning::titlesec.sty::0::0::Non standard sectioning command detected Using default spacing and no format. (titlesec package)
+Package Warning::titlesec.sty::0::0::Non standard sectioning command detected Using default spacing and no format. (titlesec package)
+Package Warning::typearea.sty::29::0::Activating an ugly workaround for a missing feature of package `titlesec`. (scrartcl package)
+Input File::marvosym.sty::0::0::Input File
+Input Package::marvosym.sty::0::0::marvosym 2011/07/20 v2.2 Martin Vogel's Symbols font definitions
+Input File::tabularx.sty::0::0::Input File
+Input Package::tabularx.sty::0::0::tabularx 2014/10/28 v2.10 `tabularx' package (DPC)
+Input File::array.sty::0::0::Input File
+Input Package::array.sty::0::0::array 2014/10/28 v2.4c Tabular extension package (FMi)
+Input File::colortbl.sty::0::0::Input File
+Input Package::colortbl.sty::0::0::colortbl 2012/02/13 v1.0a Color table columns (DPC)
+Input File::color.sty::0::0::Input File
+Input Package::color.sty::0::0::color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
+Input File::color.cfg::0::0::Input File
+Package Info::color.sty::137::0::Driver file: xetex.def. (color)
+Input File::xetex.def::0::0::Input File
+Input File::fontspec.sty::0::0::Input File
+Input Package::fontspec.sty::0::0::fontspec 2014/06/21 v2.4a Font selection for XeLaTeX and LuaLaTeX
+Input File::expl3.sty::0::0::Input File
+Input Package::expl3.sty::0::0::expl3 2015/03/01 v5547 L3 programming layer (loader) 
+Input File::expl3-code.tex::0::0::Input File
+Input Package::expl3-code.tex::0::0::expl3 2015/03/01 v5547 L3 programming layer (code) 
+Input File::etex.sty::0::0::Input File
+Input Package::etex.sty::0::0::etex 2015/03/02 v2.1 eTeX basic definition package (PEB,DPC)
+Input File::l3unicode-data.def::0::0::Input File
+Input File::l3xdvipdfmx.def::0::0::Input File
+Input File::xparse.sty::0::0::Input File
+Input Package::xparse.sty::0::0::xparse 2014/11/25 v5471 L3 Experimental document command parser
+Input File::fontspec-patches.sty::0::0::Input File
+Input Package::fontspec-patches.sty::0::0::fontspec-patches 2014/06/21 v2.4a Font selection for XeLaTeX and LuaLa
+LaTeX Info::fontspec-patches.sty::38::0::Redefining \em.
+LaTeX Info::fontspec-patches.sty::46::0::Redefining \emph.
+LaTeX Info::fontspec-patches.sty::49::0::Redefining \-.
+Input File::fontspec-xetex.sty::0::0::Input File
+Input Package::fontspec-xetex.sty::0::0::fontspec-xetex 2014/06/21 v2.4a Font selection for XeLaTeX and LuaLaTe
+Input File::fontenc.sty::0::0::Input File
+Input Package::fontenc.sty::0::0::fontenc 2005/09/27 v1.99g Standard LaTeX package
+Input File::eu1enc.def::0::0::Input File
+LaTeX Font Info::fontenc.sty::100::0::   Try loading font information for EU1+lmr.
+Input File::eu1lmr.fd::0::0::Input File
+Input File::xunicode.sty::0::0::Input File
+Input File::t3enc.def::0::0::Input File
+LaTeX Font Info::t3enc.def::357::0::   Try loading font information for EU1+lmss.
+Input File::eu1lmss.fd::0::0::Input File
+Input File::graphicx.sty::0::0::Input File
+Input Package::graphicx.sty::0::0::graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+Input File::graphics.sty::0::0::Input File
+Input Package::graphics.sty::0::0::graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+Input File::trig.sty::0::0::Input File
+Input Package::trig.sty::0::0::trig 1999/03/16 v1.09 sin cos tan (DPC)
+Input File::graphics.cfg::0::0::Input File
+Package Info::graphics.sty::91::0::Driver file: xetex.def. (graphics)
+LaTeX Info::fontspec-xetex.sty::2193::0::Redefining \itshape.
+LaTeX Info::fontspec-xetex.sty::2198::0::Redefining \slshape.
+LaTeX Info::fontspec-xetex.sty::2203::0::Redefining \scshape.
+LaTeX Info::fontspec-xetex.sty::2208::0::Redefining \upshape.
+Input File::fontspec.cfg::0::0::Input File
+Input File::cv_6.aux::0::0::Input File
+LaTeX Font Info::typearea.sty::60::0::   Checking defaults for OML/cmm/m/it.
+LaTeX Font Info::typearea.sty::60::0::   ... okay.
+LaTeX Font Info::typearea.sty::60::0::   Checking defaults for T1/cmr/m/n.
+LaTeX Font Info::typearea.sty::60::0::   ... okay.
+LaTeX Font Info::typearea.sty::60::0::   Checking defaults for OT1/cmr/m/n.
+LaTeX Font Info::typearea.sty::60::0::   ... okay.
+LaTeX Font Info::typearea.sty::60::0::   Checking defaults for OMS/cmsy/m/n.
+LaTeX Font Info::typearea.sty::60::0::   ... okay.
+LaTeX Font Info::typearea.sty::60::0::   Checking defaults for OMX/cmex/m/n.
+LaTeX Font Info::typearea.sty::60::0::   ... okay.
+LaTeX Font Info::typearea.sty::60::0::   Checking defaults for U/cmr/m/n.
+LaTeX Font Info::typearea.sty::60::0::   ... okay.
+LaTeX Font Info::typearea.sty::60::0::   Checking defaults for EU1/lmr/m/n.
+LaTeX Font Info::typearea.sty::60::0::   ... okay.
+LaTeX Font Info::typearea.sty::60::0::   Checking defaults for T3/cmr/m/n.
+LaTeX Font Info::typearea.sty::60::0::   Try loading font information for T3+cmr.
+Input File::t3cmr.fd::0::0::Input File
+LaTeX Font Info::typearea.sty::60::0::   ... okay.
+LaTeX Font Info::typearea.sty::60::0::   Overwriting symbol font `legacymaths' in version `bold' OT1/cmr/m/n --> OT1/cmr/bx/n.
+LaTeX Font Info::typearea.sty::60::0::   Redeclaring math accent \acute.
+LaTeX Font Info::typearea.sty::60::0::   Redeclaring math accent \grave.
+LaTeX Font Info::typearea.sty::60::0::   Redeclaring math accent \ddot.
+LaTeX Font Info::typearea.sty::60::0::   Redeclaring math accent \tilde.
+LaTeX Font Info::typearea.sty::60::0::   Redeclaring math accent \bar.
+LaTeX Font Info::typearea.sty::60::0::   Redeclaring math accent \breve.
+LaTeX Font Info::typearea.sty::60::0::   Redeclaring math accent \check.
+LaTeX Font Info::typearea.sty::60::0::   Redeclaring math accent \hat.
+LaTeX Font Info::typearea.sty::60::0::   Redeclaring math accent \dot.
+LaTeX Font Info::typearea.sty::60::0::   Redeclaring math accent \mathring.
+LaTeX Font Info::typearea.sty::60::0::   Redeclaring math symbol \colon.
+LaTeX Font Info::typearea.sty::60::0::   Redeclaring math symbol \Gamma.
+LaTeX Font Info::typearea.sty::60::0::   Redeclaring math symbol \Delta.
+LaTeX Font Info::typearea.sty::60::0::   Redeclaring math symbol \Theta.
+LaTeX Font Info::typearea.sty::60::0::   Redeclaring math symbol \Lambda.
+LaTeX Font Info::typearea.sty::60::0::   Redeclaring math symbol \Xi.
+LaTeX Font Info::typearea.sty::60::0::   Redeclaring math symbol \Pi.
+LaTeX Font Info::typearea.sty::60::0::   Redeclaring math symbol \Sigma.
+LaTeX Font Info::typearea.sty::60::0::   Redeclaring math symbol \Upsilon.
+LaTeX Font Info::typearea.sty::60::0::   Redeclaring math symbol \Phi.
+LaTeX Font Info::typearea.sty::60::0::   Redeclaring math symbol \Psi.
+LaTeX Font Info::typearea.sty::60::0::   Redeclaring math symbol \Omega.
+LaTeX Font Info::typearea.sty::60::0::   Redeclaring math symbol \mathdollar.
+LaTeX Font Info::typearea.sty::60::0::   Redeclaring symbol font `operators'.
+LaTeX Font Info::typearea.sty::60::0::   Encoding `OT1' has changed to `EU1' for symbol font `operators' in the math version `normal'.
+LaTeX Font Info::typearea.sty::0::0::   Overwriting symbol font `operators' in version `normal' OT1/cmr/m/n --> EU1/AdobeGaramondPro(0)/m/n on input li.
+LaTeX Font Info::typearea.sty::60::0::   Encoding `OT1' has changed to `EU1' for symbol font `operators' in the math version `bold'.
+LaTeX Font Info::typearea.sty::0::0::   Overwriting symbol font `operators' in version `bold' OT1/cmr/bx/n --> EU1/AdobeGaramondPro(0)/m/n on input l.
+LaTeX Font Info::typearea.sty::0::0::   Overwriting symbol font `operators' in version `normal' EU1/AdobeGaramondPro(0)/m/n --> EU1/AdobeGaramondPro(0).
+LaTeX Font Info::typearea.sty::0::0::   Overwriting math alphabet `\mathit' in version `normal' OT1/cmr/m/it --> EU1/AdobeGaramondPro(0)/m/it on input.
+LaTeX Font Info::typearea.sty::0::0::   Overwriting math alphabet `\mathbf' in version `normal' OT1/cmr/bx/n --> EU1/AdobeGaramondPro(0)/bx/n on input.
+LaTeX Font Info::typearea.sty::60::0::   Overwriting math alphabet `\mathsf' in version `normal' OT1/cmss/m/n --> EU1/lmss/m/n.
+LaTeX Font Info::typearea.sty::60::0::   Overwriting math alphabet `\mathtt' in version `normal' OT1/cmtt/m/n --> EU1/lmtt/m/n.
+LaTeX Font Info::typearea.sty::0::0::   Overwriting symbol font `operators' in version `bold' EU1/AdobeGaramondPro(0)/m/n --> EU1/AdobeGaramondPro(0).
+LaTeX Font Info::typearea.sty::0::0::   Overwriting math alphabet `\mathit' in version `bold' OT1/cmr/bx/it --> EU1/AdobeGaramondPro(0)/bx/it on inpu.
+LaTeX Font Info::typearea.sty::60::0::   Overwriting math alphabet `\mathsf' in version `bold' OT1/cmss/bx/n --> EU1/lmss/bx/n.
+LaTeX Font Info::typearea.sty::60::0::   Overwriting math alphabet `\mathtt' in version `bold' OT1/cmtt/m/n --> EU1/lmtt/bx/n.
+LaTeX Font Info::typearea.sty::144::0::   Try loading font information for U+mvs.
+Input File::umvs.fd::0::0::Input File
+Input File::cv_6.aux::0::0::Input File

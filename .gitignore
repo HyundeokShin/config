@@ -10,6 +10,7 @@
 #.git-prompt.sh
 #.gitconfig
 #.gitignore
+*.tmp
 .ssh
 .vim_mru_files
 .vim_runtime

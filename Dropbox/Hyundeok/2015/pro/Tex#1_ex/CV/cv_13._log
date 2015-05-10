@@ -1,0 +1,227 @@
+Input File::cv_13.tex::0::0::Input File
+Input File::article.cls::0::0::Input File
+Input Package::article.cls::0::0::article 2014/09/29 v1.4h Standard LaTeX document class
+Input File::size10.clo::0::0::Input File
+Input File::cv_13_layout.tex::0::0::Input File
+Input File::geometry.sty::0::0::Input File
+Input Package::geometry.sty::0::0::geometry 2010/09/12 v5.6 Page Geometry
+Input File::keyval.sty::0::0::Input File
+Input Package::keyval.sty::0::0::keyval 2014/10/28 v1.15 key=value parser (DPC)
+Input File::ifpdf.sty::0::0::Input File
+Input Package::ifpdf.sty::0::0::ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package Info::ifpdf.sty::0::0::pdfTeX in PDF mode is not detected. (ifpdf)
+Input File::ifvtex.sty::0::0::Input File
+Input Package::ifvtex.sty::0::0::ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package Info::ifvtex.sty::0::0::VTeX not detected. (ifvtex)
+Input File::ifxetex.sty::0::0::Input File
+Input Package::ifxetex.sty::0::0::ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+Input File::fancyhdr.sty::0::0::Input File
+Input File::lastpage.sty::0::0::Input File
+Input Package::lastpage.sty::0::0::lastpage 2013/01/28 v1.2l Refers to last page's name (HMM; JPG)
+Input File::hyperref.sty::0::0::Input File
+Input Package::hyperref.sty::0::0::hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+Input File::hobsub-hyperref.sty::0::0::Input File
+Input Package::hobsub-hyperref.sty::0::0::hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+Input File::hobsub-generic.sty::0::0::Input File
+Input Package::hobsub-generic.sty::0::0::hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Input Package::hobsub-generic.sty::0::0::hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Input Package::hobsub-generic.sty::0::0::infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+Input Package::hobsub-generic.sty::0::0::ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+Input Package::hobsub-generic.sty::0::0::ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package Info::hobsub-generic.sty::0::0::LuaTeX not detected. (ifluatex)
+Package Info::hobsub-generic.sty::0::0::Skipping package `ifvtex' (already loaded). (hobsub)
+Input Package::hobsub-generic.sty::0::0::intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package Info::hobsub-generic.sty::0::0::Skipping package `ifpdf' (already loaded). (hobsub)
+Input Package::hobsub-generic.sty::0::0::etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package Info::hobsub-generic.sty::0::0::Could not find \expanded. That can mean that you are not using pdfTeX 1.50 or that some package has redefined \expanded. In the latter case, load this package earlier. (etexcmds)
+Input Package::hobsub-generic.sty::0::0::kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Input Package::hobsub-generic.sty::0::0::kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Input Package::hobsub-generic.sty::0::0::pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+Package Info::hobsub-generic.sty::0::0::LuaTeX not detected. (pdftexcmds)
+Package Info::hobsub-generic.sty::0::0::pdfTeX >= 1.30 not detected. (pdftexcmds)
+Package Info::hobsub-generic.sty::0::0::\pdf@primitive is available. (pdftexcmds)
+Package Info::hobsub-generic.sty::0::0::\pdf@ifprimitive is available. (pdftexcmds)
+Package Info::hobsub-generic.sty::0::0::\pdfdraftmode not found. (pdftexcmds)
+Input Package::hobsub-generic.sty::0::0::pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Input Package::hobsub-generic.sty::0::0::bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+Input Package::hobsub-generic.sty::0::0::bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Input Package::hobsub-generic.sty::0::0::uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+Package Info::hobsub-hyperref.sty::0::0::Skipping package `hobsub' (already loaded). (hobsub)
+Input Package::hobsub-hyperref.sty::0::0::letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Input Package::hobsub-hyperref.sty::0::0::hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Input Package::hobsub-hyperref.sty::0::0::xcolor-patch 2011/01/30 xcolor patch
+Input Package::hobsub-hyperref.sty::0::0::atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package Info::hobsub-hyperref.sty::0::0::\enddocument detected (standard20110627). (atveryend)
+Input Package::hobsub-hyperref.sty::0::0::atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Input Package::hobsub-hyperref.sty::0::0::refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Input Package::hobsub-hyperref.sty::0::0::hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+Input File::auxhook.sty::0::0::Input File
+Input Package::auxhook.sty::0::0::auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+Input File::kvoptions.sty::0::0::Input File
+Input Package::kvoptions.sty::0::0::kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+Input File::pd1enc.def::0::0::Input File
+Input File::hyperref.cfg::0::0::Input File
+Package Info::hyperref.sty::4443::0::Hyper figures OFF. (hyperref)
+Package Info::hyperref.sty::4448::0::Link nesting OFF. (hyperref)
+Package Info::hyperref.sty::4451::0::Hyper index ON. (hyperref)
+Package Info::hyperref.sty::4458::0::Plain pages OFF. (hyperref)
+Package Info::hyperref.sty::4463::0::Backreferencing OFF. (hyperref)
+Package Info::hyperref.sty::0::0::Implicit mode ON; LaTeX internals redefined. (hyperref)
+Package Info::hyperref.sty::4688::0::Bookmarks ON. (hyperref)
+Input File::url.sty::0::0::Input File
+Input Package::url.sty::0::0::url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+LaTeX Info::hyperref.sty::5041::0::Redefining \url.
+Package Info::hyperref.sty::6295::0::Hyper figures OFF. (hyperref)
+Package Info::hyperref.sty::6300::0::Link nesting OFF. (hyperref)
+Package Info::hyperref.sty::6303::0::Hyper index ON. (hyperref)
+Package Info::hyperref.sty::6310::0::backreferencing OFF. (hyperref)
+Package Info::hyperref.sty::6315::0::Link coloring OFF. (hyperref)
+Package Info::hyperref.sty::6320::0::Link coloring with OCG OFF. (hyperref)
+Package Info::hyperref.sty::6325::0::PDF/A mode OFF. (hyperref)
+LaTeX Info::hyperref.sty::6365::0::Redefining \ref.
+LaTeX Info::hyperref.sty::6369::0::Redefining \pageref.
+Input File::hxetex.def::0::0::Input File
+Input File::puenc.def::0::0::Input File
+Input File::stringenc.sty::0::0::Input File
+Input Package::stringenc.sty::0::0::stringenc 2011/12/02 v1.10 Convert strings between diff. encodings (HO
+Input File::rerunfilecheck.sty::0::0::Input File
+Input Package::rerunfilecheck.sty::0::0::rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package Info::rerunfilecheck.sty::0::0::Feature \pdfmdfivesum is not available (e.g. pdfTeX or LuaTeX with package `pdftexcmds'). (rerunfilecheck)
+Input File::inputenc.sty::0::0::Input File
+Input Package::inputenc.sty::0::0::inputenc 2014/04/30 v1.2b Input encoding file
+Package Warning::inputenc.sty::0::0::inputenc package ignored with utf8 based engines. (inputenc package)
+Input File::fontenc.sty::0::0::Input File
+Input Package::fontenc.sty::0::0::fontenc 2005/09/27 v1.99g Standard LaTeX package
+Input File::t1enc.def::0::0::Input File
+LaTeX Font Info::t1enc.def::43::0::   Redeclaring font encoding T1.
+Input File::fontspec.sty::0::0::Input File
+Input Package::fontspec.sty::0::0::fontspec 2014/06/21 v2.4a Font selection for XeLaTeX and LuaLaTeX
+Input File::expl3.sty::0::0::Input File
+Input Package::expl3.sty::0::0::expl3 2015/03/01 v5547 L3 programming layer (loader) 
+Input File::expl3-code.tex::0::0::Input File
+Input Package::expl3-code.tex::0::0::expl3 2015/03/01 v5547 L3 programming layer (code) 
+Input File::etex.sty::0::0::Input File
+Input Package::etex.sty::0::0::etex 2015/03/02 v2.1 eTeX basic definition package (PEB,DPC)
+Input File::l3unicode-data.def::0::0::Input File
+Input File::l3xdvipdfmx.def::0::0::Input File
+Input File::xparse.sty::0::0::Input File
+Input Package::xparse.sty::0::0::xparse 2014/11/25 v5471 L3 Experimental document command parser
+Input File::fontspec-patches.sty::0::0::Input File
+Input Package::fontspec-patches.sty::0::0::fontspec-patches 2014/06/21 v2.4a Font selection for XeLaTeX and LuaLa
+LaTeX Info::fontspec-patches.sty::38::0::Redefining \em.
+LaTeX Info::fontspec-patches.sty::46::0::Redefining \emph.
+LaTeX Info::fontspec-patches.sty::49::0::Redefining \-.
+Input File::fontspec-xetex.sty::0::0::Input File
+Input Package::fontspec-xetex.sty::0::0::fontspec-xetex 2014/06/21 v2.4a Font selection for XeLaTeX and LuaLaTe
+Input File::fontenc.sty::0::0::Input File
+Input Package::fontenc.sty::0::0::fontenc 2005/09/27 v1.99g Standard LaTeX package
+Input File::eu1enc.def::0::0::Input File
+LaTeX Font Info::fontenc.sty::100::0::   Try loading font information for EU1+lmr.
+Input File::eu1lmr.fd::0::0::Input File
+Input File::xunicode.sty::0::0::Input File
+Input File::t3enc.def::0::0::Input File
+LaTeX Font Info::t3enc.def::357::0::   Try loading font information for EU1+lmss.
+Input File::eu1lmss.fd::0::0::Input File
+Input File::graphicx.sty::0::0::Input File
+Input Package::graphicx.sty::0::0::graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+Input File::graphics.sty::0::0::Input File
+Input Package::graphics.sty::0::0::graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+Input File::trig.sty::0::0::Input File
+Input Package::trig.sty::0::0::trig 1999/03/16 v1.09 sin cos tan (DPC)
+Input File::graphics.cfg::0::0::Input File
+Package Info::graphics.sty::91::0::Driver file: xetex.def. (graphics)
+Input File::xetex.def::0::0::Input File
+LaTeX Info::fontspec-xetex.sty::2193::0::Redefining \itshape.
+LaTeX Info::fontspec-xetex.sty::2198::0::Redefining \slshape.
+LaTeX Info::fontspec-xetex.sty::2203::0::Redefining \scshape.
+LaTeX Info::fontspec-xetex.sty::2208::0::Redefining \upshape.
+Input File::fontspec.cfg::0::0::Input File
+Input File::color.sty::0::0::Input File
+Input Package::color.sty::0::0::color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
+Input File::color.cfg::0::0::Input File
+Package Info::color.sty::137::0::Driver file: xetex.def. (color)
+Input File::sectsty.sty::0::0::Input File
+Input Package::sectsty.sty::0::0::sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+Input File::cv_13.aux::0::0::Input File
+LaTeX Font Info::cv_13.tex::28::0::   Checking defaults for OML/cmm/m/it.
+LaTeX Font Info::cv_13.tex::28::0::   ... okay.
+LaTeX Font Info::cv_13.tex::28::0::   Checking defaults for T1/cmr/m/n.
+LaTeX Font Info::cv_13.tex::28::0::   ... okay.
+LaTeX Font Info::cv_13.tex::28::0::   Checking defaults for OT1/cmr/m/n.
+LaTeX Font Info::cv_13.tex::28::0::   ... okay.
+LaTeX Font Info::cv_13.tex::28::0::   Checking defaults for OMS/cmsy/m/n.
+LaTeX Font Info::cv_13.tex::28::0::   ... okay.
+LaTeX Font Info::cv_13.tex::28::0::   Checking defaults for OMX/cmex/m/n.
+LaTeX Font Info::cv_13.tex::28::0::   ... okay.
+LaTeX Font Info::cv_13.tex::28::0::   Checking defaults for U/cmr/m/n.
+LaTeX Font Info::cv_13.tex::28::0::   ... okay.
+LaTeX Font Info::cv_13.tex::28::0::   Checking defaults for PD1/pdf/m/n.
+LaTeX Font Info::cv_13.tex::28::0::   ... okay.
+LaTeX Font Info::cv_13.tex::28::0::   Checking defaults for PU/pdf/m/n.
+LaTeX Font Info::cv_13.tex::28::0::   ... okay.
+LaTeX Font Info::cv_13.tex::28::0::   Checking defaults for EU1/lmr/m/n.
+LaTeX Font Info::cv_13.tex::28::0::   ... okay.
+LaTeX Font Info::cv_13.tex::28::0::   Checking defaults for T3/cmr/m/n.
+LaTeX Font Info::cv_13.tex::28::0::   Try loading font information for T3+cmr.
+Input File::t3cmr.fd::0::0::Input File
+LaTeX Font Info::cv_13.tex::28::0::   ... okay.
+Package Info::cv_13.tex::28::0::Please have a look at the pageslts package at http://www.ctan.org/tex-archive/  macros/latex/contrib/pageslts/  or http://www.ctan.org/tex-archive/  install/macros/latex/contrib/pageslts.tds.zip !. (lastpage)
+Package Info::cv_13.tex::28::0::Link coloring OFF. (hyperref)
+Input File::nameref.sty::0::0::Input File
+Input Package::nameref.sty::0::0::nameref 2012/10/27 v2.43 Cross-referencing by name of section
+Input File::gettitlestring.sty::0::0::Input File
+Input Package::gettitlestring.sty::0::0::gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+LaTeX Info::cv_13.tex::28::0::Redefining \ref.
+LaTeX Info::cv_13.tex::28::0::Redefining \pageref.
+LaTeX Info::cv_13.tex::28::0::Redefining \nameref.
+Input File::cv_13.out::0::0::Input File
+Input File::cv_13.out::0::0::Input File
+LaTeX Font Info::cv_13.tex::28::0::   Overwriting symbol font `legacymaths' in version `bold' OT1/cmr/m/n --> OT1/cmr/bx/n.
+LaTeX Font Info::cv_13.tex::28::0::   Redeclaring math accent \acute.
+LaTeX Font Info::cv_13.tex::28::0::   Redeclaring math accent \grave.
+LaTeX Font Info::cv_13.tex::28::0::   Redeclaring math accent \ddot.
+LaTeX Font Info::cv_13.tex::28::0::   Redeclaring math accent \tilde.
+LaTeX Font Info::cv_13.tex::28::0::   Redeclaring math accent \bar.
+LaTeX Font Info::cv_13.tex::28::0::   Redeclaring math accent \breve.
+LaTeX Font Info::cv_13.tex::28::0::   Redeclaring math accent \check.
+LaTeX Font Info::cv_13.tex::28::0::   Redeclaring math accent \hat.
+LaTeX Font Info::cv_13.tex::28::0::   Redeclaring math accent \dot.
+LaTeX Font Info::cv_13.tex::28::0::   Redeclaring math accent \mathring.
+LaTeX Font Info::cv_13.tex::28::0::   Redeclaring math symbol \colon.
+LaTeX Font Info::cv_13.tex::28::0::   Redeclaring math symbol \Gamma.
+LaTeX Font Info::cv_13.tex::28::0::   Redeclaring math symbol \Delta.
+LaTeX Font Info::cv_13.tex::28::0::   Redeclaring math symbol \Theta.
+LaTeX Font Info::cv_13.tex::28::0::   Redeclaring math symbol \Lambda.
+LaTeX Font Info::cv_13.tex::28::0::   Redeclaring math symbol \Xi.
+LaTeX Font Info::cv_13.tex::28::0::   Redeclaring math symbol \Pi.
+LaTeX Font Info::cv_13.tex::28::0::   Redeclaring math symbol \Sigma.
+LaTeX Font Info::cv_13.tex::28::0::   Redeclaring math symbol \Upsilon.
+LaTeX Font Info::cv_13.tex::28::0::   Redeclaring math symbol \Phi.
+LaTeX Font Info::cv_13.tex::28::0::   Redeclaring math symbol \Psi.
+LaTeX Font Info::cv_13.tex::28::0::   Redeclaring math symbol \Omega.
+LaTeX Font Info::cv_13.tex::28::0::   Redeclaring math symbol \mathdollar.
+LaTeX Font Info::cv_13.tex::28::0::   Redeclaring symbol font `operators'.
+LaTeX Font Info::cv_13.tex::28::0::   Encoding `OT1' has changed to `EU1' for symbol font `operators' in the math version `normal'.
+LaTeX Font Info::cv_13.tex::0::0::   Overwriting symbol font `operators' in version `normal' OT1/cmr/m/n --> EU1/Erewhon-Regular(0)/m/n on input lin.
+LaTeX Font Info::cv_13.tex::28::0::   Encoding `OT1' has changed to `EU1' for symbol font `operators' in the math version `bold'.
+LaTeX Font Info::cv_13.tex::0::0::   Overwriting symbol font `operators' in version `bold' OT1/cmr/bx/n --> EU1/Erewhon-Regular(0)/m/n on input li.
+LaTeX Font Info::cv_13.tex::0::0::   Overwriting symbol font `operators' in version `normal' EU1/Erewhon-Regular(0)/m/n --> EU1/Erewhon-Regular(0)/m.
+LaTeX Font Info::cv_13.tex::0::0::   Overwriting math alphabet `\mathit' in version `normal' OT1/cmr/m/it --> EU1/Erewhon-Regular(0)/m/it on input l.
+LaTeX Font Info::cv_13.tex::0::0::   Overwriting math alphabet `\mathbf' in version `normal' OT1/cmr/bx/n --> EU1/Erewhon-Regular(0)/bx/n on input l.
+LaTeX Font Info::cv_13.tex::28::0::   Overwriting math alphabet `\mathsf' in version `normal' OT1/cmss/m/n --> EU1/lmss/m/n.
+LaTeX Font Info::cv_13.tex::28::0::   Overwriting math alphabet `\mathtt' in version `normal' OT1/cmtt/m/n --> EU1/lmtt/m/n.
+LaTeX Font Info::cv_13.tex::0::0::   Overwriting symbol font `operators' in version `bold' EU1/Erewhon-Regular(0)/m/n --> EU1/Erewhon-Regular(0)/b.
+LaTeX Font Info::cv_13.tex::0::0::   Overwriting math alphabet `\mathit' in version `bold' OT1/cmr/bx/it --> EU1/Erewhon-Regular(0)/bx/it on input.
+LaTeX Font Info::cv_13.tex::28::0::   Overwriting math alphabet `\mathsf' in version `bold' OT1/cmss/bx/n --> EU1/lmss/bx/n.
+LaTeX Font Info::cv_13.tex::28::0::   Overwriting math alphabet `\mathtt' in version `bold' OT1/cmtt/m/n --> EU1/lmtt/bx/n.
+hbox Warning::cv_13.tex::34::0::Underfull \hbox (badness 10000) in paragraph at lines 34--35
+LaTeX Font Info::cv_13.tex::45::0::   External font `cmex10' loaded for size <7>.
+LaTeX Font Info::cv_13.tex::45::0::   External font `cmex10' loaded for size <5>.
+Input File::se-ascii-print.def::0::0::Input File
+hbox Warning::cv_13.tex::139::0::Underfull \hbox (badness 10000) in paragraph at lines 139--139
+Package Info::cv_13.tex::192::0::Empty hook `BeforeClearDocument'. (atveryend)
+Package Info::cv_13.tex::192::0::Empty hook `AfterLastShipout'. (atveryend)
+Input File::cv_13.aux::0::0::Input File
+Package Info::cv_13.tex::192::0::Empty hook `AtVeryEndDocument'. (atveryend)
+Package Info::cv_13.tex::192::0::Empty hook `AtEndAfterFileList'. (atveryend)
+Package Info::cv_13.tex::192::0::Empty hook `AtVeryVeryEnd'. (atveryend)

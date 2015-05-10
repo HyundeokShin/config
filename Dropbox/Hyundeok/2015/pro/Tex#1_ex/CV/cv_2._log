@@ -1,0 +1,29 @@
+Input File::cv_2.tex::0::0::Input File
+Input File::cv_2.cls::0::0::Input File
+LaTeX Warning::cv_2.cls::0::0::You have requested document class `cv_2',
+Input Package::cv_2.cls::0::0::res 2000/05/19 v1.4b Resume class
+Input File::article.cls::0::0::Input File
+Input Package::article.cls::0::0::article 2014/09/29 v1.4h Standard LaTeX document class
+Input File::size10.clo::0::0::Input File
+Input File::helvet.sty::0::0::Input File
+Input Package::helvet.sty::0::0::helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+Input File::keyval.sty::0::0::Input File
+Input Package::keyval.sty::0::0::keyval 2014/10/28 v1.15 key=value parser (DPC)
+LaTeX Warning::cv_2.tex::0::0::Unused global option(s):
+LaTeX Font Info::cv_2.tex::30::0::   Checking defaults for OML/cmm/m/it.
+LaTeX Font Info::cv_2.tex::30::0::   ... okay.
+LaTeX Font Info::cv_2.tex::30::0::   Checking defaults for T1/cmr/m/n.
+LaTeX Font Info::cv_2.tex::30::0::   ... okay.
+LaTeX Font Info::cv_2.tex::30::0::   Checking defaults for OT1/cmr/m/n.
+LaTeX Font Info::cv_2.tex::30::0::   ... okay.
+LaTeX Font Info::cv_2.tex::30::0::   Checking defaults for OMS/cmsy/m/n.
+LaTeX Font Info::cv_2.tex::30::0::   ... okay.
+LaTeX Font Info::cv_2.tex::30::0::   Checking defaults for OMX/cmex/m/n.
+LaTeX Font Info::cv_2.tex::30::0::   ... okay.
+LaTeX Font Info::cv_2.tex::30::0::   Checking defaults for U/cmr/m/n.
+LaTeX Font Info::cv_2.tex::30::0::   ... okay.
+LaTeX Font Info::cv_2.tex::46::0::   External font `cmex10' loaded for size <7>.
+LaTeX Font Info::cv_2.tex::46::0::   External font `cmex10' loaded for size <5>.
+LaTeX Font Info::cv_2.tex::87::0::   Try loading font information for OMS+cmr.
+Input File::omscmr.fd::0::0::Input File
+LaTeX Font Info::cv_2.tex::87::0::   Font shape `OMS/cmr/m/n' in size <10> not available Font shape `OMS/cmsy/m/n' tried instead.

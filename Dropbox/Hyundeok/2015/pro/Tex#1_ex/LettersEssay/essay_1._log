@@ -1,0 +1,49 @@
+Input File::essay_1.tex::0::0::Input File
+Input File::article.cls::0::0::Input File
+Input Package::article.cls::0::0::article 2014/09/29 v1.4h Standard LaTeX document class
+Input File::size12.clo::0::0::Input File
+Input File::geometry.sty::0::0::Input File
+Input Package::geometry.sty::0::0::geometry 2010/09/12 v5.6 Page Geometry
+Input File::keyval.sty::0::0::Input File
+Input Package::keyval.sty::0::0::keyval 2014/10/28 v1.15 key=value parser (DPC)
+Input File::ifpdf.sty::0::0::Input File
+Input Package::ifpdf.sty::0::0::ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package Info::ifpdf.sty::0::0::pdfTeX in PDF mode is not detected. (ifpdf)
+Input File::ifvtex.sty::0::0::Input File
+Input Package::ifvtex.sty::0::0::ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package Info::ifvtex.sty::0::0::VTeX not detected. (ifvtex)
+Input File::ifxetex.sty::0::0::Input File
+Input Package::ifxetex.sty::0::0::ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+Input File::graphicx.sty::0::0::Input File
+Input Package::graphicx.sty::0::0::graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+Input File::graphics.sty::0::0::Input File
+Input Package::graphics.sty::0::0::graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+Input File::trig.sty::0::0::Input File
+Input Package::trig.sty::0::0::trig 1999/03/16 v1.09 sin cos tan (DPC)
+Input File::graphics.cfg::0::0::Input File
+Package Info::graphics.sty::91::0::Driver file: xetex.def. (graphics)
+Input File::xetex.def::0::0::Input File
+Input File::float.sty::0::0::Input File
+Input Package::float.sty::0::0::float 2001/11/08 v1.3d Float enhancements (AL)
+Input File::wrapfig.sty::0::0::Input File
+Input Package::wrapfig.sty::0::0::wrapfig 2003/01/31  v 3.6
+Input File::lipsum.sty::0::0::Input File
+Input Package::lipsum.sty::0::0::lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+Input File::essay_1.aux::0::0::Input File
+LaTeX Font Info::essay_1.tex::37::0::   Checking defaults for OML/cmm/m/it.
+LaTeX Font Info::essay_1.tex::37::0::   ... okay.
+LaTeX Font Info::essay_1.tex::37::0::   Checking defaults for T1/cmr/m/n.
+LaTeX Font Info::essay_1.tex::37::0::   ... okay.
+LaTeX Font Info::essay_1.tex::37::0::   Checking defaults for OT1/cmr/m/n.
+LaTeX Font Info::essay_1.tex::37::0::   ... okay.
+LaTeX Font Info::essay_1.tex::37::0::   Checking defaults for OMS/cmsy/m/n.
+LaTeX Font Info::essay_1.tex::37::0::   ... okay.
+LaTeX Font Info::essay_1.tex::37::0::   Checking defaults for OMX/cmex/m/n.
+LaTeX Font Info::essay_1.tex::37::0::   ... okay.
+LaTeX Font Info::essay_1.tex::37::0::   Checking defaults for U/cmr/m/n.
+LaTeX Font Info::essay_1.tex::37::0::   ... okay.
+LaTeX Font Info::essay_1.tex::62::0::   External font `cmex10' loaded for size <12>.
+LaTeX Font Info::essay_1.tex::62::0::   External font `cmex10' loaded for size <8>.
+LaTeX Font Info::essay_1.tex::62::0::   External font `cmex10' loaded for size <6>.
+Input File::essay_1.toc::0::0::Input File
+Input File::essay_1.aux::0::0::Input File

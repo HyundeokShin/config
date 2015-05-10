@@ -1,0 +1,99 @@
+Input File::letter4.tex::0::0::Input File
+Input File::letter.cls::0::0::Input File
+Input Package::letter.cls::0::0::letter 2014/09/29 v1.2z Standard LaTeX document class
+Input File::size11.clo::0::0::Input File
+Input File::graphicx.sty::0::0::Input File
+Input Package::graphicx.sty::0::0::graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+Input File::keyval.sty::0::0::Input File
+Input Package::keyval.sty::0::0::keyval 2014/10/28 v1.15 key=value parser (DPC)
+Input File::graphics.sty::0::0::Input File
+Input Package::graphics.sty::0::0::graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+Input File::trig.sty::0::0::Input File
+Input Package::trig.sty::0::0::trig 1999/03/16 v1.09 sin cos tan (DPC)
+Input File::graphics.cfg::0::0::Input File
+Package Info::graphics.sty::91::0::Driver file: xetex.def. (graphics)
+Input File::xetex.def::0::0::Input File
+Input File::microtype.sty::0::0::Input File
+Input Package::microtype.sty::0::0::microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
+LaTeX Info::microtype.sty::766::0::Redefining \textls.
+LaTeX Info::microtype.sty::1285::0::Redefining \textmicrotypecontext.
+Input File::microtype-xetex.def::0::0::Input File
+LaTeX Info::microtype-xetex.def::254::0::Redefining \lsstyle.
+Package Info::microtype.sty::0::0::Loading configuration file microtype.cfg. (microtype)
+Input File::microtype.cfg::0::0::Input File
+Input File::gfsdidot.sty::0::0::Input File
+Input File::pxfonts.sty::0::0::Input File
+Input Package::pxfonts.sty::0::0::pxfonts 2008/01/22 v1.1.1
+LaTeX Font Info::pxfonts.sty::21::0::   Redeclaring symbol font `operators'.
+LaTeX Font Info::pxfonts.sty::21::0::   Overwriting symbol font `operators' in version `normal' OT1/cmr/m/n --> OT1/pxr/m/n.
+LaTeX Font Info::pxfonts.sty::21::0::   Overwriting symbol font `operators' in version `bold' OT1/cmr/bx/n --> OT1/pxr/m/n.
+LaTeX Font Info::pxfonts.sty::22::0::   Overwriting symbol font `operators' in version `bold' OT1/pxr/m/n --> OT1/pxr/bx/n.
+LaTeX Font Info::pxfonts.sty::26::0::   Overwriting symbol font `italic' in version `bold' OT1/pxr/m/it --> OT1/pxr/bx/it.
+LaTeX Font Info::pxfonts.sty::29::0::   Redeclaring math alphabet \mathbf.
+LaTeX Font Info::pxfonts.sty::29::0::   Overwriting math alphabet `\mathbf' in version `normal' OT1/cmr/bx/n --> OT1/pxr/bx/n.
+LaTeX Font Info::pxfonts.sty::29::0::   Overwriting math alphabet `\mathbf' in version `bold' OT1/cmr/bx/n --> OT1/pxr/bx/n.
+LaTeX Font Info::pxfonts.sty::30::0::   Redeclaring math alphabet \mathit.
+LaTeX Font Info::pxfonts.sty::30::0::   Overwriting math alphabet `\mathit' in version `normal' OT1/cmr/m/it --> OT1/pxr/m/it.
+LaTeX Font Info::pxfonts.sty::30::0::   Overwriting math alphabet `\mathit' in version `bold' OT1/cmr/bx/it --> OT1/pxr/m/it.
+LaTeX Font Info::pxfonts.sty::31::0::   Overwriting math alphabet `\mathit' in version `bold' OT1/pxr/m/it --> OT1/pxr/bx/it.
+LaTeX Font Info::pxfonts.sty::40::0::   Redeclaring math alphabet \mathsf.
+LaTeX Font Info::pxfonts.sty::40::0::   Overwriting math alphabet `\mathsf' in version `normal' OT1/cmss/m/n --> OT1/pxss/m/n.
+LaTeX Font Info::pxfonts.sty::40::0::   Overwriting math alphabet `\mathsf' in version `bold' OT1/cmss/bx/n --> OT1/pxss/m/n.
+LaTeX Font Info::pxfonts.sty::41::0::   Overwriting math alphabet `\mathsf' in version `bold' OT1/pxss/m/n --> OT1/pxss/b/n.
+LaTeX Font Info::pxfonts.sty::50::0::   Redeclaring math alphabet \mathtt.
+LaTeX Font Info::pxfonts.sty::50::0::   Overwriting math alphabet `\mathtt' in version `normal' OT1/cmtt/m/n --> OT1/pxtt/m/n.
+LaTeX Font Info::pxfonts.sty::50::0::   Overwriting math alphabet `\mathtt' in version `bold' OT1/cmtt/m/n --> OT1/pxtt/m/n.
+LaTeX Font Info::pxfonts.sty::51::0::   Overwriting math alphabet `\mathtt' in version `bold' OT1/pxtt/m/n --> OT1/pxtt/b/n.
+LaTeX Font Info::pxfonts.sty::58::0::   Redeclaring symbol font `letters'.
+LaTeX Font Info::pxfonts.sty::58::0::   Overwriting symbol font `letters' in version `normal' OML/cmm/m/it --> OML/pxmi/m/it.
+LaTeX Font Info::pxfonts.sty::58::0::   Overwriting symbol font `letters' in version `bold' OML/cmm/b/it --> OML/pxmi/m/it.
+LaTeX Font Info::pxfonts.sty::59::0::   Overwriting symbol font `letters' in version `bold' OML/pxmi/m/it --> OML/pxmi/bx/it.
+LaTeX Font Info::pxfonts.sty::67::0::   Overwriting symbol font `lettersA' in version `bold' U/pxmia/m/it --> U/pxmia/bx/it.
+LaTeX Font Info::pxfonts.sty::77::0::   Redeclaring symbol font `symbols'.
+LaTeX Font Info::pxfonts.sty::77::0::   Overwriting symbol font `symbols' in version `normal' OMS/cmsy/m/n --> OMS/pxsy/m/n.
+LaTeX Font Info::pxfonts.sty::77::0::   Overwriting symbol font `symbols' in version `bold' OMS/cmsy/b/n --> OMS/pxsy/m/n.
+LaTeX Font Info::pxfonts.sty::78::0::   Overwriting symbol font `symbols' in version `bold' OMS/pxsy/m/n --> OMS/pxsy/bx/n.
+LaTeX Font Info::pxfonts.sty::94::0::   Overwriting symbol font `AMSa' in version `bold' U/pxsya/m/n --> U/pxsya/bx/n.
+LaTeX Font Info::pxfonts.sty::103::0::   Overwriting symbol font `AMSb' in version `bold' U/pxsyb/m/n --> U/pxsyb/bx/n.
+LaTeX Font Info::pxfonts.sty::113::0::   Overwriting symbol font `symbolsC' in version `bold' U/pxsyc/m/n --> U/pxsyc/bx/n.
+LaTeX Font Info::pxfonts.sty::120::0::   Redeclaring symbol font `largesymbols'.
+LaTeX Font Info::pxfonts.sty::120::0::   Overwriting symbol font `largesymbols' in version `normal' OMX/cmex/m/n --> OMX/pxex/m/n.
+LaTeX Font Info::pxfonts.sty::120::0::   Overwriting symbol font `largesymbols' in version `bold' OMX/cmex/m/n --> OMX/pxex/m/n.
+LaTeX Font Info::pxfonts.sty::121::0::   Overwriting symbol font `largesymbols' in version `bold' OMX/pxex/m/n --> OMX/pxex/bx/n.
+LaTeX Font Info::pxfonts.sty::129::0::   Overwriting symbol font `largesymbolsA' in version `bold' U/pxexa/m/n --> U/pxexa/bx/n.
+LaTeX Info::pxfonts.sty::997::0::Redefining \not.
+Input File::lgrenc.def::0::0::Input File
+Input File::greek-fontenc.def::0::0::Input File
+Input File::fontenc.sty::0::0::Input File
+Input Package::fontenc.sty::0::0::fontenc 2005/09/27 v1.99g Standard LaTeX package
+Input File::t1enc.def::0::0::Input File
+Input File::letter4.aux::0::0::Input File
+Input File::omlpxmi.fd::0::0::Input File
+Input File::omspxsy.fd::0::0::Input File
+Input File::omxpxex.fd::0::0::Input File
+Input File::upxexa.fd::0::0::Input File
+Input File::lgrcmr.fd::0::0::Input File
+Input File::t1udidot.fd::0::0::Input File
+LaTeX Info::letter4.tex::120::0::Redefining \microtypecontext.
+Package Info::letter4.tex::0::0::Character protrusion enabled (level 2). (microtype)
+Package Info::letter4.tex::0::0::Using default protrusion set `alltext'. (microtype)
+Package Info::letter4.tex::0::0::No adjustment of tracking. (microtype)
+Package Info::letter4.tex::0::0::No adjustment of spacing. (microtype)
+Package Info::letter4.tex::0::0::No adjustment of kerning. (microtype)
+Package Info::letter4.tex::0::0::Loading generic settings for font family `udidot' (encoding: T1). For optimal results, create family-specific settings. See the microtype manual for details. (microtype)
+Input File::ot1udidot.fd::0::0::Input File
+Package Info::letter4.tex::0::0::Loading generic settings for font family `udidot' (encoding: OT1). For optimal results, create family-specific settings. See the microtype manual for details. (microtype)
+Input File::omludidot.fd::0::0::Input File
+Input File::ot1pxr.fd::0::0::Input File
+Input File::mt-ppl.cfg::0::0::Input File
+Package Info::letter4.tex::0::0::Character `AE ' is missing in font `OT1/pxr/m/it/10.95'. Ignoring protrusion settings for this character. (microtype)
+Package Info::letter4.tex::0::0::Character `OE ' is missing in font `OT1/pxr/m/it/10.95'. Ignoring protrusion settings for this character. (microtype)
+Package Info::letter4.tex::0::0::Character `AE ' is missing in font `OT1/pxr/m/it/8'. Ignoring protrusion settings for this character. (microtype)
+Package Info::letter4.tex::0::0::Character `OE ' is missing in font `OT1/pxr/m/it/8'. Ignoring protrusion settings for this character. (microtype)
+Package Info::letter4.tex::0::0::Character `AE ' is missing in font `OT1/pxr/m/it/6'. Ignoring protrusion settings for this character. (microtype)
+Package Info::letter4.tex::0::0::Character `OE ' is missing in font `OT1/pxr/m/it/6'. Ignoring protrusion settings for this character. (microtype)
+Input File::upxmia.fd::0::0::Input File
+Input File::upxsya.fd::0::0::Input File
+Input File::upxsyb.fd::0::0::Input File
+Input File::upxsyc.fd::0::0::Input File
+Input File::letter4.aux::0::0::Input File

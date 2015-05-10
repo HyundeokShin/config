@@ -1,0 +1,352 @@
+Input File::cv_10.tex::0::0::Input File
+Input File::cv_10.cls::0::0::Input File
+LaTeX Warning::cv_10.cls::0::0::You have requested document class `cv_10',
+Input Package::cv_10.cls::0::0::friggeri-cv 2012/04/30 CV class
+Input File::article.cls::0::0::Input File
+Input Package::article.cls::0::0::article 2014/09/29 v1.4h Standard LaTeX document class
+Input File::size10.clo::0::0::Input File
+Input File::xcolor.sty::0::0::Input File
+Input Package::xcolor.sty::0::0::xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+Input File::color.cfg::0::0::Input File
+Package Info::xcolor.sty::225::0::Driver file: xetex.def. (xcolor)
+Input File::xetex.def::0::0::Input File
+Package Info::xcolor.sty::1337::0::Model `cmy' substituted by `cmy0'. (xcolor)
+Package Info::xcolor.sty::1353::0::Model `RGB' extended. (xcolor)
+Package Info::xcolor.sty::1355::0::Model `HTML' substituted by `rgb'. (xcolor)
+Package Info::xcolor.sty::1356::0::Model `Hsb' substituted by `hsb'. (xcolor)
+Package Info::xcolor.sty::1357::0::Model `tHsb' substituted by `hsb'. (xcolor)
+Package Info::xcolor.sty::1358::0::Model `HSB' substituted by `hsb'. (xcolor)
+Package Info::xcolor.sty::1359::0::Model `Gray' substituted by `gray'. (xcolor)
+Package Info::xcolor.sty::1360::0::Model `wave' substituted by `hsb'. (xcolor)
+Input File::fontspec.sty::0::0::Input File
+Input Package::fontspec.sty::0::0::fontspec 2015/03/14 v2.4c Font selection for XeLaTeX and LuaLaTeX
+Input File::expl3.sty::0::0::Input File
+Input Package::expl3.sty::0::0::expl3 2015/03/01 v5547 L3 programming layer (loader) 
+Input File::expl3-code.tex::0::0::Input File
+Input Package::expl3-code.tex::0::0::expl3 2015/03/01 v5547 L3 programming layer (code) 
+Input File::etex.sty::0::0::Input File
+Input Package::etex.sty::0::0::etex 2015/03/02 v2.1 eTeX basic definition package (PEB,DPC)
+Input File::l3unicode-data.def::0::0::Input File
+Input File::l3xdvipdfmx.def::0::0::Input File
+Input File::xparse.sty::0::0::Input File
+Input Package::xparse.sty::0::0::xparse 2014/11/25 v5471 L3 Experimental document command parser
+Input File::fontspec-patches.sty::0::0::Input File
+Input Package::fontspec-patches.sty::0::0::fontspec-patches 2015/03/14 v2.4c Font selection for XeLaTeX and LuaLa
+LaTeX Info::fontspec-patches.sty::49::0::Redefining \em.
+LaTeX Info::fontspec-patches.sty::57::0::Redefining \emph.
+LaTeX Info::fontspec-patches.sty::60::0::Redefining \-.
+Input File::fontspec-xetex.sty::0::0::Input File
+Input Package::fontspec-xetex.sty::0::0::fontspec-xetex 2015/03/14 v2.4c Font selection for XeLaTeX and LuaLaTe
+Input File::fontenc.sty::0::0::Input File
+Input Package::fontenc.sty::0::0::fontenc 2005/09/27 v1.99g Standard LaTeX package
+Input File::eu1enc.def::0::0::Input File
+LaTeX Font Info::fontenc.sty::100::0::   Try loading font information for EU1+lmr.
+Input File::eu1lmr.fd::0::0::Input File
+Input File::xunicode.sty::0::0::Input File
+Input File::t3enc.def::0::0::Input File
+LaTeX Font Info::t3enc.def::357::0::   Try loading font information for EU1+lmss.
+Input File::eu1lmss.fd::0::0::Input File
+Input File::graphicx.sty::0::0::Input File
+Input Package::graphicx.sty::0::0::graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+Input File::keyval.sty::0::0::Input File
+Input Package::keyval.sty::0::0::keyval 2014/10/28 v1.15 key=value parser (DPC)
+Input File::graphics.sty::0::0::Input File
+Input Package::graphics.sty::0::0::graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+Input File::trig.sty::0::0::Input File
+Input Package::trig.sty::0::0::trig 1999/03/16 v1.09 sin cos tan (DPC)
+Input File::graphics.cfg::0::0::Input File
+Package Info::graphics.sty::91::0::Driver file: xetex.def. (graphics)
+LaTeX Info::fontspec-xetex.sty::2232::0::Redefining \itshape.
+LaTeX Info::fontspec-xetex.sty::2237::0::Redefining \slshape.
+LaTeX Info::fontspec-xetex.sty::2242::0::Redefining \scshape.
+LaTeX Info::fontspec-xetex.sty::2247::0::Redefining \upshape.
+Input File::fontspec.cfg::0::0::Input File
+Input File::unicode-math.sty::0::0::Input File
+Input Package::unicode-math.sty::0::0::unicode-math 2014/06/30 v0.7f Unicode maths in XeLaTeX and LuaLaTeX
+Input File::ifxetex.sty::0::0::Input File
+Input Package::ifxetex.sty::0::0::ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+Input File::ifluatex.sty::0::0::Input File
+Input Package::ifluatex.sty::0::0::ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package Info::ifluatex.sty::0::0::LuaTeX not detected. (ifluatex)
+Input File::l3keys2e.sty::0::0::Input File
+Input Package::l3keys2e.sty::0::0::l3keys2e 2014/11/25 v5471 LaTeX2e option processing using LaTeX3 keys
+Input File::catchfile.sty::0::0::Input File
+Input Package::catchfile.sty::0::0::catchfile 2011/03/01 v1.6 Catch the contents of a file (HO)
+Input File::infwarerr.sty::0::0::Input File
+Input Package::infwarerr.sty::0::0::infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+Input File::ltxcmds.sty::0::0::Input File
+Input Package::ltxcmds.sty::0::0::ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+Input File::etexcmds.sty::0::0::Input File
+Input Package::etexcmds.sty::0::0::etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package Info::etexcmds.sty::0::0::Could not find \expanded. That can mean that you are not using pdfTeX 1.50 or that some package has redefined \expanded. In the latter case, load this package earlier. (etexcmds)
+Input File::fix-cm.sty::0::0::Input File
+Input Package::fix-cm.sty::0::0::fix-cm 2014/09/29 v1.1s fixes to LaTeX
+Input File::ts1enc.def::0::0::Input File
+Input File::filehook.sty::0::0::Input File
+Input Package::filehook.sty::0::0::filehook 2011/10/12 v0.5d Hooks for input files
+Input File::tikz.sty::0::0::Input File
+Input File::pgf.sty::0::0::Input File
+Input File::pgfrcs.sty::0::0::Input File
+Input File::pgfutil-latex.def::0::0::Input File
+Input File::everyshi.sty::0::0::Input File
+Input Package::everyshi.sty::0::0::everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+Input File::pgfrcs.code.tex::0::0::Input File
+Input Package::pgfrcs.code.tex::0::0::pgfrcs 2013/12/20 v3.0.0 (rcs-revision 1.28)
+Input Package::pgf.sty::0::0::pgf 2013/12/18 v3.0.0 (rcs-revision 1.14)
+Input File::pgfcore.sty::0::0::Input File
+Input File::pgfsys.sty::0::0::Input File
+Input File::pgfsys.code.tex::0::0::Input File
+Input Package::pgfsys.code.tex::0::0::pgfsys 2013/11/30 v3.0.0 (rcs-revision 1.47)
+Input File::pgfkeys.code.tex::0::0::Input File
+Input File::pgf.cfg::0::0::Input File
+Input File::pgfcore.code.tex::0::0::Input File
+Input Package::pgfcore.code.tex::0::0::pgfcore 2010/04/11 v3.0.0 (rcs-revision 1.7)
+Input File::pgfmath.code.tex::0::0::Input File
+Input File::pgfmathcalc.code.tex::0::0::Input File
+Input File::pgfmathutil.code.tex::0::0::Input File
+Input File::pgfmathparser.code.tex::0::0::Input File
+Input File::pgfmathfloat.code.tex::0::0::Input File
+Input Package::pgf.sty::0::0::pgfcomp-version-0-65 2007/07/03 v3.0.0 (rcs-revision 1.7)
+Input Package::pgf.sty::0::0::pgfcomp-version-1-18 2007/07/23 v3.0.0 (rcs-revision 1.1)
+Input File::pgffor.sty::0::0::Input File
+Input File::pgfkeys.sty::0::0::Input File
+Input File::pgfkeys.code.tex::0::0::Input File
+Input File::pgfmath.sty::0::0::Input File
+Input File::pgfmath.code.tex::0::0::Input File
+Input File::pgffor.code.tex::0::0::Input File
+Input Package::pgffor.code.tex::0::0::pgffor 2013/12/13 v3.0.0 (rcs-revision 1.25)
+Input File::pgfmath.code.tex::0::0::Input File
+Input Package::tikz.sty::0::0::tikz 2013/12/13 v3.0.0 (rcs-revision 1.142)
+Input File::parskip.sty::0::0::Input File
+Input Package::parskip.sty::0::0::parskip 2001/04/09 non-zero parskip adjustments
+Input File::textpos.sty::0::0::Input File
+Input Package::textpos.sty::0::0::textpos 2014/01/03 v1.7j
+Input Package::textpos.sty::0::0::textpos 2014/01/03 1.7j, absolute positioning of text on the page
+Input File::biblatex.sty::0::0::Input File
+Input Package::biblatex.sty::0::0::biblatex 2014/06/25 v2.9a programmable bibliographies (PK/JW/AB)
+Package Warning::biblatex.sty::0::0::No "backend" specified, using Biber backend. To use BibTeX, load biblatex with  the "backend=bibtex" option. (biblatex package)
+Input File::biblatex2.sty::0::0::Input File
+Input Package::biblatex2.sty::0::0::biblatex2 2014/06/25 v2.9a programmable bibliographies (biber) (PK/JW/
+Input File::etoolbox.sty::0::0::Input File
+Input Package::etoolbox.sty::0::0::etoolbox 2015/03/19 v2.1d e-TeX tools for LaTeX (JAW)
+Input File::kvoptions.sty::0::0::Input File
+Input Package::kvoptions.sty::0::0::kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+Input File::kvsetkeys.sty::0::0::Input File
+Input Package::kvsetkeys.sty::0::0::kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Input File::logreq.sty::0::0::Input File
+Input Package::logreq.sty::0::0::logreq 2010/08/04 v1.0 xml request logger
+Input File::logreq.def::0::0::Input File
+Input File::ifthen.sty::0::0::Input File
+Input Package::ifthen.sty::0::0::ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+Input File::url.sty::0::0::Input File
+Input Package::url.sty::0::0::url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+Package Info::biblatex2.sty::0::0::Trying to load biblatex default data model... (biblatex)
+Package Info::biblatex2.sty::0::0::... file 'blx-dm.def' found. (biblatex)
+Input File::blx-dm.def::0::0::Input File
+Package Info::biblatex2.sty::0::0::Trying to load biblatex style data model... (biblatex)
+Package Info::biblatex2.sty::0::0::... file 'verbose.dbx' not found. (biblatex)
+Package Info::biblatex2.sty::0::0::Trying to load biblatex custom data model... (biblatex)
+Package Info::biblatex2.sty::0::0::... file 'biblatex-dm.cfg' not found. (biblatex)
+Package Info::biblatex2.sty::0::0::Trying to load compatibility code... (biblatex)
+Package Info::biblatex2.sty::0::0::... file 'blx-compat.def' found. (biblatex)
+Input File::blx-compat.def::0::0::Input File
+Package Info::biblatex2.sty::0::0::Trying to load generic definitions... (biblatex)
+Package Info::biblatex2.sty::0::0::... file 'biblatex.def' found. (biblatex)
+Input File::biblatex.def::0::0::Input File
+Package Info::biblatex2.sty::0::0::Trying to load bibliography style 'verbose'... (biblatex)
+Package Info::biblatex2.sty::0::0::... file 'verbose.bbx' found. (biblatex)
+Package Info::biblatex2.sty::0::0::Trying to load bibliography style 'authortitle'... (biblatex)
+Package Info::biblatex2.sty::0::0::... file 'authortitle.bbx' found. (biblatex)
+Package Info::biblatex2.sty::0::0::Trying to load bibliography style 'standard'... (biblatex)
+Package Info::biblatex2.sty::0::0::... file 'standard.bbx' found. (biblatex)
+Package Info::biblatex2.sty::0::0::Trying to load citation style 'verbose'... (biblatex)
+Package Info::biblatex2.sty::0::0::... file 'verbose.cbx' found. (biblatex)
+Package Info::biblatex2.sty::0::0::Redefining '\cite'. (biblatex)
+Package Info::biblatex2.sty::0::0::Redefining '\parencite'. (biblatex)
+Package Info::biblatex2.sty::0::0::Redefining '\footcite'. (biblatex)
+Package Info::biblatex2.sty::0::0::Redefining '\footcitetext'. (biblatex)
+Package Info::biblatex2.sty::0::0::Redefining '\smartcite'. (biblatex)
+Package Info::biblatex2.sty::0::0::Redefining '\textcite'. (biblatex)
+Package Info::biblatex2.sty::0::0::Redefining '\textcites'. (biblatex)
+Package Info::biblatex2.sty::0::0::Trying to load configuration file... (biblatex)
+Package Info::biblatex2.sty::0::0::... file 'biblatex.cfg' found. (biblatex)
+Input File::biblatex.cfg::0::0::Input File
+Input File::geometry.sty::0::0::Input File
+Input Package::geometry.sty::0::0::geometry 2010/09/12 v5.6 Page Geometry
+Input File::ifpdf.sty::0::0::Input File
+Input Package::ifpdf.sty::0::0::ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package Info::ifpdf.sty::0::0::pdfTeX in PDF mode is not detected. (ifpdf)
+Input File::ifvtex.sty::0::0::Input File
+Input Package::ifvtex.sty::0::0::ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package Info::ifvtex.sty::0::0::VTeX not detected. (ifvtex)
+Input File::hyperref.sty::0::0::Input File
+Input Package::hyperref.sty::0::0::hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+Input File::hobsub-hyperref.sty::0::0::Input File
+Input Package::hobsub-hyperref.sty::0::0::hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+Input File::hobsub-generic.sty::0::0::Input File
+Input Package::hobsub-generic.sty::0::0::hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Input Package::hobsub-generic.sty::0::0::hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package Info::hobsub-generic.sty::0::0::Skipping package `infwarerr' (already loaded). (hobsub)
+Package Info::hobsub-generic.sty::0::0::Skipping package `ltxcmds' (already loaded). (hobsub)
+Package Info::hobsub-generic.sty::0::0::Skipping package `ifluatex' (already loaded). (hobsub)
+Package Info::hobsub-generic.sty::0::0::Skipping package `ifvtex' (already loaded). (hobsub)
+Input Package::hobsub-generic.sty::0::0::intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package Info::hobsub-generic.sty::0::0::Skipping package `ifpdf' (already loaded). (hobsub)
+Package Info::hobsub-generic.sty::0::0::Skipping package `etexcmds' (already loaded). (hobsub)
+Package Info::hobsub-generic.sty::0::0::Skipping package `kvsetkeys' (already loaded). (hobsub)
+Input Package::hobsub-generic.sty::0::0::kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Input Package::hobsub-generic.sty::0::0::pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+Package Info::hobsub-generic.sty::0::0::LuaTeX not detected. (pdftexcmds)
+Package Info::hobsub-generic.sty::0::0::pdfTeX >= 1.30 not detected. (pdftexcmds)
+Package Info::hobsub-generic.sty::0::0::\pdf@primitive is available. (pdftexcmds)
+Package Info::hobsub-generic.sty::0::0::\pdf@ifprimitive is available. (pdftexcmds)
+Package Info::hobsub-generic.sty::0::0::\pdfdraftmode not found. (pdftexcmds)
+Input Package::hobsub-generic.sty::0::0::pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Input Package::hobsub-generic.sty::0::0::bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+Input Package::hobsub-generic.sty::0::0::bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Input Package::hobsub-generic.sty::0::0::uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+Package Info::hobsub-hyperref.sty::0::0::Skipping package `hobsub' (already loaded). (hobsub)
+Input Package::hobsub-hyperref.sty::0::0::letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Input Package::hobsub-hyperref.sty::0::0::hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Input Package::hobsub-hyperref.sty::0::0::xcolor-patch 2011/01/30 xcolor patch
+Input Package::hobsub-hyperref.sty::0::0::atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Input Package::hobsub-hyperref.sty::0::0::atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Input Package::hobsub-hyperref.sty::0::0::refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Input Package::hobsub-hyperref.sty::0::0::hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+Input File::auxhook.sty::0::0::Input File
+Input Package::auxhook.sty::0::0::auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+Input File::pd1enc.def::0::0::Input File
+Input File::hyperref.cfg::0::0::Input File
+Package Info::hyperref.sty::4443::0::Hyper figures OFF. (hyperref)
+Package Info::hyperref.sty::4448::0::Link nesting OFF. (hyperref)
+Package Info::hyperref.sty::4451::0::Hyper index ON. (hyperref)
+Package Info::hyperref.sty::4458::0::Plain pages OFF. (hyperref)
+Package Info::hyperref.sty::4463::0::Backreferencing OFF. (hyperref)
+Package Info::hyperref.sty::0::0::Implicit mode ON; LaTeX internals redefined. (hyperref)
+Package Info::hyperref.sty::4688::0::Bookmarks ON. (hyperref)
+LaTeX Info::hyperref.sty::5041::0::Redefining \url.
+Package Info::hyperref.sty::6295::0::Hyper figures OFF. (hyperref)
+Package Info::hyperref.sty::6300::0::Link nesting OFF. (hyperref)
+Package Info::hyperref.sty::6303::0::Hyper index ON. (hyperref)
+Package Info::hyperref.sty::6310::0::backreferencing OFF. (hyperref)
+Package Info::hyperref.sty::6315::0::Link coloring OFF. (hyperref)
+Package Info::hyperref.sty::6320::0::Link coloring with OCG OFF. (hyperref)
+Package Info::hyperref.sty::6325::0::PDF/A mode OFF. (hyperref)
+LaTeX Info::hyperref.sty::6365::0::Redefining \ref.
+LaTeX Info::hyperref.sty::6369::0::Redefining \pageref.
+Input File::hxetex.def::0::0::Input File
+Input File::puenc.def::0::0::Input File
+Input File::stringenc.sty::0::0::Input File
+Input Package::stringenc.sty::0::0::stringenc 2011/12/02 v1.10 Convert strings between diff. encodings (HO
+Input File::rerunfilecheck.sty::0::0::Input File
+Input Package::rerunfilecheck.sty::0::0::rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package Info::rerunfilecheck.sty::0::0::Feature \pdfmdfivesum is not available (e.g. pdfTeX or LuaTeX with package `pdftexcmds'). (rerunfilecheck)
+Package Info::cv_10.cls::315::0::Option `colorlinks' set `false'. (hyperref)
+Package Info::cv_10.tex::0::0::Trying to load language 'english'... (biblatex)
+Package Info::cv_10.tex::0::0::... file 'english.lbx' found. (biblatex)
+Input File::english.lbx::0::0::Input File
+Input File::cv_10.aux::0::0::Input File
+LaTeX Font Info::cv_10.tex::26::0::   Checking defaults for OML/cmm/m/it.
+LaTeX Font Info::cv_10.tex::26::0::   ... okay.
+LaTeX Font Info::cv_10.tex::26::0::   Checking defaults for T1/cmr/m/n.
+LaTeX Font Info::cv_10.tex::26::0::   ... okay.
+LaTeX Font Info::cv_10.tex::26::0::   Checking defaults for OT1/cmr/m/n.
+LaTeX Font Info::cv_10.tex::26::0::   ... okay.
+LaTeX Font Info::cv_10.tex::26::0::   Checking defaults for OMS/cmsy/m/n.
+LaTeX Font Info::cv_10.tex::26::0::   ... okay.
+LaTeX Font Info::cv_10.tex::26::0::   Checking defaults for OMX/cmex/m/n.
+LaTeX Font Info::cv_10.tex::26::0::   ... okay.
+LaTeX Font Info::cv_10.tex::26::0::   Checking defaults for U/cmr/m/n.
+LaTeX Font Info::cv_10.tex::26::0::   ... okay.
+LaTeX Font Info::cv_10.tex::26::0::   Checking defaults for EU1/lmr/m/n.
+LaTeX Font Info::cv_10.tex::26::0::   ... okay.
+LaTeX Font Info::cv_10.tex::26::0::   Checking defaults for T3/cmr/m/n.
+LaTeX Font Info::cv_10.tex::26::0::   Try loading font information for T3+cmr.
+Input File::t3cmr.fd::0::0::Input File
+LaTeX Font Info::cv_10.tex::26::0::   ... okay.
+LaTeX Font Info::cv_10.tex::26::0::   Checking defaults for TS1/cmr/m/n.
+LaTeX Font Info::cv_10.tex::26::0::   ... okay.
+LaTeX Font Info::cv_10.tex::26::0::   Checking defaults for PD1/pdf/m/n.
+LaTeX Font Info::cv_10.tex::26::0::   ... okay.
+LaTeX Font Info::cv_10.tex::26::0::   Checking defaults for PU/pdf/m/n.
+LaTeX Font Info::cv_10.tex::26::0::   ... okay.
+LaTeX Font Info::cv_10.tex::26::0::   Encoding `OT1' has changed to `EU1' for symbol font `operators' in the math version `normal'.
+LaTeX Font Info::cv_10.tex::0::0::   Overwriting symbol font `operators' in version `normal' OT1/cmr/m/n --> EU1/latinmodern-math.otf(0)/m/n on inpu.
+LaTeX Font Info::cv_10.tex::26::0::   Encoding `OT1' has changed to `EU1' for symbol font `operators' in the math version `bold'.
+LaTeX Font Info::cv_10.tex::0::0::   Overwriting symbol font `operators' in version `bold' OT1/cmr/bx/n --> EU1/latinmodern-math.otf(0)/bx/n on in.
+LaTeX Font Info::cv_10.tex::26::0::   Encoding `OMS' has changed to `EU1' for symbol font `symbols' in the math version `normal'.
+LaTeX Font Info::cv_10.tex::0::0::   Overwriting symbol font `symbols' in version `normal' OMS/cmsy/m/n --> EU1/latinmodern-math.otf(1)/m/n on inp.
+LaTeX Font Info::cv_10.tex::26::0::   Encoding `OMS' has changed to `EU1' for symbol font `symbols' in the math version `bold'.
+LaTeX Font Info::cv_10.tex::0::0::   Overwriting symbol font `symbols' in version `bold' OMS/cmsy/b/n --> EU1/latinmodern-math.otf(1)/bx/n on in.
+LaTeX Font Info::cv_10.tex::2::0::   Encoding `OMX' has changed to `EU1' for symbol font `largesymbols' in the math version `normal'.
+LaTeX Font Info::cv_10.tex::0::0::   Overwriting symbol font `largesymbols' in version `normal' OMX/cmex/m/n --> EU1/latinmodern-math.otf(2)/m/n on inp.
+LaTeX Font Info::cv_10.tex::26::0::   Encoding `OMX' has changed to `EU1' for symbol font `largesymbols' in the math version `bold'.
+LaTeX Font Info::cv_10.tex::0::0::   Overwriting symbol font `largesymbols' in version `bold' OMX/cmex/m/n --> EU1/latinmodern-math.otf(2)/bx/n on in.
+Package Info::cv_10.tex::0::0::XeTeX detected. Assuming input encoding 'utf8'. (biblatex)
+Package Info::cv_10.tex::0::0::Automatic encoding selection. Assuming data encoding 'utf8'. (biblatex)
+Package Info::cv_10.tex::0::0::Trying to load bibliographic data... (biblatex)
+Package Info::cv_10.tex::0::0::... file 'cv_10.bbl' not found. (biblatex)
+Package Info::cv_10.tex::26::0::Reference section=0. (biblatex)
+Package Info::cv_10.tex::26::0::Reference segment=0. (biblatex)
+Package Info::cv_10.tex::26::0::Link coloring OFF. (hyperref)
+Input File::nameref.sty::0::0::Input File
+Input Package::nameref.sty::0::0::nameref 2012/10/27 v2.43 Cross-referencing by name of section
+Input File::gettitlestring.sty::0::0::Input File
+Input Package::gettitlestring.sty::0::0::gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+LaTeX Info::cv_10.tex::26::0::Redefining \ref.
+LaTeX Info::cv_10.tex::26::0::Redefining \pageref.
+LaTeX Info::cv_10.tex::26::0::Redefining \nameref.
+Input File::cv_10.out::0::0::Input File
+Input File::cv_10.out::0::0::Input File
+LaTeX Font Info::cv_10.tex::50::0::   Font shape `EU1/latinmodern-math.otf(1)/m/n' will be scaled to size 10.00015pt.
+LaTeX Font Info::cv_10.tex::50::0::   Font shape `EU1/latinmodern-math.otf(1)/m/n' will be scaled to size 7.00006pt.
+LaTeX Font Info::cv_10.tex::50::0::   Font shape `EU1/latinmodern-math.otf(1)/m/n' will be scaled to size 5.00008pt.
+LaTeX Font Info::cv_10.tex::50::0::   Font shape `EU1/latinmodern-math.otf(2)/m/n' will be scaled to size 9.99985pt.
+LaTeX Font Info::cv_10.tex::50::0::   Font shape `EU1/latinmodern-math.otf(2)/m/n' will be scaled to size 6.99986pt.
+LaTeX Font Info::cv_10.tex::50::0::   Font shape `EU1/latinmodern-math.otf(2)/m/n' will be scaled to size 4.99992pt.
+hbox Warning::cv_10.tex::61::0::Underfull \hbox (badness 10000) in paragraph at lines 61--76
+LaTeX Font Warning::cv_10.tex::0::0::Font shape `EU1/HelveticaNeueLight(0)/m/sc' undefined using `EU1/HelveticaNeueLight(0)/m/n' instead on input line.
+hbox Warning::cv_10.tex::83::0::Underfull \hbox (badness 10000) in paragraph at lines 83--122
+hbox Warning::cv_10.tex::129::0::Underfull \hbox (badness 10000) in paragraph at lines 129--138
+hbox Warning::cv_10.tex::145::0::Underfull \hbox (badness 10000) in paragraph at lines 145--160
+Input File::se-ascii-print.def::0::0::Input File
+Package Info::cv_10.tex::175::0::Reference section=1. (biblatex)
+Package Info::cv_10.tex::175::0::Setting label 'refsection:1'. (biblatex)
+Package Warning::cv_10.tex::175::0::Type 'article' not found. (biblatex package)
+ LaTeX Warning::cv_10.tex::175::0::Empty bibliography.
+Package Info::cv_10.tex::175::0::Reference section=0. (biblatex)
+Package Info::cv_10.tex::177::0::Reference section=2. (biblatex)
+Package Info::cv_10.tex::177::0::Setting label 'refsection:2'. (biblatex)
+Package Warning::cv_10.tex::177::0::Type 'book' not found. (biblatex package)
+ LaTeX Warning::cv_10.tex::177::0::Empty bibliography.
+Package Info::cv_10.tex::177::0::Reference section=0. (biblatex)
+Package Info::cv_10.tex::179::0::Reference section=3. (biblatex)
+Package Info::cv_10.tex::179::0::Setting label 'refsection:3'. (biblatex)
+Package Warning::cv_10.tex::181::0::Type 'inproceedings' not found. (biblatex package)
+ LaTeX Warning::cv_10.tex::181::0::Empty bibliography.
+Package Info::cv_10.tex::182::0::Reference section=0. (biblatex)
+Package Info::cv_10.tex::184::0::Reference section=4. (biblatex)
+Package Info::cv_10.tex::184::0::Setting label 'refsection:4'. (biblatex)
+Package Warning::cv_10.tex::186::0::Type 'inproceedings' not found. (biblatex package)
+Package Warning::cv_10.tex::186::0::Keyword 'france' not found. (biblatex package)
+ LaTeX Warning::cv_10.tex::186::0::Empty bibliography.
+Package Info::cv_10.tex::187::0::Reference section=0. (biblatex)
+Package Info::cv_10.tex::189::0::Reference section=5. (biblatex)
+Package Info::cv_10.tex::189::0::Setting label 'refsection:5'. (biblatex)
+Package Warning::cv_10.tex::189::0::Type 'misc' not found. (biblatex package)
+ LaTeX Warning::cv_10.tex::189::0::Empty bibliography.
+Package Info::cv_10.tex::189::0::Reference section=0. (biblatex)
+Package Info::cv_10.tex::191::0::Reference section=6. (biblatex)
+Package Info::cv_10.tex::191::0::Setting label 'refsection:6'. (biblatex)
+Package Warning::cv_10.tex::191::0::Type 'report' not found. (biblatex package)
+ LaTeX Warning::cv_10.tex::191::0::Empty bibliography.
+Package Info::cv_10.tex::191::0::Reference section=0. (biblatex)
+Package Info::cv_10.tex::195::0::Empty hook `BeforeClearDocument'. (atveryend)
+Package Info::cv_10.tex::195::0::Empty hook `AfterLastShipout'. (atveryend)
+Input File::cv_10.aux::0::0::Input File
+Package Info::cv_10.tex::195::0::Empty hook `AtVeryEndDocument'. (atveryend)
+Package Info::cv_10.tex::195::0::Empty hook `AtEndAfterFileList'. (atveryend)
+LaTeX Font Warning::cv_10.tex::0::0::Some font shapes were not available, defaults substituted.
+LaTeX Warning::cv_10.tex::0::0::There were undefined references.
+Package Warning::cv_10.tex::0::0::Please (re)run Biber on the file: cv_10 and rerun LaTeX afterwards. (biblatex package)
+Package Info::cv_10.tex::0::0::Writing requests to 'cv_10.run.xml'. (logreq)
